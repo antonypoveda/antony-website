@@ -1,0 +1,37 @@
+---
+layout: post
+title: 2 to 6 February
+date: 2026-02-07
+tags: weeknote
+showPagination: true
+includeInBreadcrumbs: true
+
+
+---
+One of those weeks where so much happens you almost can't remember any of it. But then you sit down to write about it.
+
+**Monday**: Started the day learning that a key technical decision underpinning the work we had planned for this quarter was being re-considered, and providing my thoughts to leaders. I can see valid arguments both ways, one side aiming to maintain a more coherent experience for users, the other looking to show something real has changed for the profession. 
+
+As ever I'm thinking of the third way, [avoiding the big bang launch](https://abicox.medium.com/no-more-big-bang-launches-81f0ce5fdc91), and supporting users to gradually change their behaviour, moving content and functionality from one platform to another part by part, ideally testing as we go.... Floated this around the unit, but ultimately it's not going to be my call (or at least I don't have the time to get more involved) and I have to be ok with that. Just need to help the team clearly communicate what can be delivered depending on the final choice, and the point that it's made.
+
+**Tuesday**: down to London and back in one day for a long workshop with colleagues across our unit on the future of the same work held up by the above decision. It was great to build some relationships in person and show the value of our team to every one else's stuff. Most of this stuff is effectively services provided to departments to build their digital 'capability' (people). We should be able to sit down properly soon with each team to work out how to better support these services and who needs our help most. Also great to meet the ace new content designer in our team in person!
+
+A nice surprise was the journey. Getting a train from Sheffield at 8:30, then back from St Pancras at 15:30, meant I can help with the morning routine and get home at a decent time for tea and bedtime (and then pub quiz). Would happily do this again if meeting times allow, so kudos to my manager for the considerate scheduling.
+
+**Thursday and Friday**: Wins: managed one co-writing session each day with subject matter experts! Less positive: In the first, we learned that one of the main assumptions we were confident in is not right for all the role descriptions, just some of them. But that's how it goes, by doing the work, we learn what the work is. Second session did make us more confident on that particular role, so overall it's a draw on the role design front for this week.
+
+Another thing these sessions reminded me is that no one properly understands the bigger picutre of how different standards and frameworks related to our new one are all supposed to relate. So myself and new content designer spent a couple of hours using [narrative object modelling](https://hpadkisson.medium.com/object-modeling-for-designers-an-introduction-7871bdcf8baf) to map out everything in the domain around the framework. Then, following my own frequent advice to others, shared this work in progress with others in the wider unit and even the cross-government structured information community (gulp). Happily this sparked lots of idea and appreciation in both places, which feels nice. Hopefully it can encourage others to share their work more openly too.
+
+Amongst near endless onboarding these last couple of weeks, and a fair bit of shadowing, was able to hand over real design work to the new designer, some information architecture scoping, some content 2i. Very pleased to see nothing has phased them so far. They ask good questions, and I think they're into the heavily strategic profile of the work. Early, but feels like all the effort to recruit well to the role has paid off 🤞.
+
+Finally I managed to catch up on some plans for the organisation's design community which are really exciting. I'm keen to make sure all types of designer, in all areas, are being thought about and feel the benefit, but overall it feels like having a Chief Designer in place has helped kicked things up a gear.
+
+## To do
+* [ Propose a session for SDinGov](https://govservicedesign.net/call-sessions) - going along last year was a big highlight, the theme of 'democracy' is perfect for our work, and I resolved to get out there more this year, so no excuses whatsoever. Deadline Monday 9 March.
+* Keep building out this site, maybe write out some case studies.
+
+## Reading
+* [GOV.UK Prototype Kit - Data driven prototyping](https://joelanman.com/posts/govuk-prototype-kit-data/)
+* [Accessible design is digital infrastructure](https://annaecook.com/writing/2026/2/2/accessible-design-is-digital-infrastructure)
+* [Your brain does not process information and is not a computer](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer)
+* [AI Skills Hub: a content critique](https://contentdesign.london/blog/ai-skills-hub-a-content-critique)
