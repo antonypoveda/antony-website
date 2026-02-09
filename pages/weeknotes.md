@@ -9,5 +9,5 @@ pagination:
   reverse: true
 ---
 
-Postcards from the edge of reason.
+Postcards from the edge.
 
