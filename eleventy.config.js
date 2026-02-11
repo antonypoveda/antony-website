@@ -21,6 +21,9 @@ export default function(eleventyConfig) {
         mask: false,
         shortcut: ['/assets/images/afavicon.ico'],
         touch: false
+      },
+      templates:{
+        feed: true
       },   
       stylesheets: ['/assets/styles.css'],
     })

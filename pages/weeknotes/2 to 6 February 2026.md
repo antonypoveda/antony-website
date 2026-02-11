@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2 to 6 February
+title: Narrative - 2 to 6 February
 date: 2026-02-07
 tags: weeknote
 showPagination: true
