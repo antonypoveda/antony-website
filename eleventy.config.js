@@ -23,7 +23,8 @@ export default function(eleventyConfig) {
         touch: false
       },
       templates:{
-        feed: true
+        feed: true,
+        tags: true
       },   
       stylesheets: ['/assets/styles.css'],
     })
