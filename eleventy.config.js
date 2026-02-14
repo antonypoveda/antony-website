@@ -27,6 +27,7 @@ export default function(eleventyConfig) {
         tags: true
       },   
       stylesheets: ['/assets/styles.css'],
+      opengraphImageUrl: ['assets/images/aopengraph.png'],
     })
 
   return {
