@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="false">
   <title>Feed</title>
   <link href="/feed.xml" rel="self"/>
-  <updated>2026-02-14T00:00:00Z</updated>
+  <updated>2026-02-22T00:00:00Z</updated>
   <id>false</id>
   <entry>
     <title>Realistic - 16 to 20 February</title>
     <link href="/weeknotes/22-02-2026/"/>
-    <updated>2026-02-14T00:00:00Z</updated>
+    <updated>2026-02-22T00:00:00Z</updated>
     <id>/weeknotes/22-02-2026/</id><content xml:lang="en" type="html">
       <![CDATA[
 <h2 id="work-week" tabindex="-1" class="govuk-heading-l">Work week</h2>
@@ -33,6 +33,7 @@
 <li><a href="https://tomloosemorework.wordpress.com/2026/02/19/ai-and-the-end-of-friction-as-a-policy-lever/" class="govuk-link">AI and the end of friction as a policy lever</a></li>
 <li><a href="https://digitalbydefault.com/2026/02/21/a-decade-later-launching-the-ons-website-in-2016/" class="govuk-link">A decade later – launching the ONS website in 2016</a></li>
 <li><a href="https://www.scroll.co.uk/scroll-blog/how-to-design-a-style-guide" class="govuk-link">How to design a style guide (that people can actually use)</a></li>
+<li><a href="https://contentdesign.london/blog/the-public-deserves-services-that-are-useful-usable-and-safe" class="govuk-link">The public deserves services that are useful, usable and safe</a></li>
 </ul>
 
       ]]>
