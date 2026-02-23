@@ -1,7 +1,11 @@
+import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
+
 import { govukEleventyPlugin } from '@x-govuk/govuk-eleventy-plugin'
 
 export default function(eleventyConfig) {
   // Register the plugin
+  eleventyConfig.addPlugin(eleventyNavigationPlugin);
+
   eleventyConfig.addPlugin(govukEleventyPlugin,
     {
       footer: {

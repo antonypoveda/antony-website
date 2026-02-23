@@ -1,12 +1,14 @@
 ---
 layout: collection
 title: Weeknotes
-includeInBreadcrumbs: true
-paginationHeading: 
+paginationHeading:
 pagination:
   data: collections.weeknote
   size: 20
   reverse: true
+eleventyNavigation:
+  key: Weeknotes
+includeInBreadcrumbs: true
 ---
 
 Postcards from the edge.
