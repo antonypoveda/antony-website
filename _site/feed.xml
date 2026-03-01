@@ -2,8 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="false">
   <title>Feed</title>
   <link href="/feed.xml" rel="self"/>
-  <updated>2026-02-22T00:00:00Z</updated>
+  <updated>2026-02-28T00:00:00Z</updated>
   <id>false</id>
+  <entry>
+    <title>Requirement - 23 to 27 February</title>
+    <link href="/weeknotes/28-02-2026/"/>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <id>/weeknotes/28-02-2026/</id><content xml:lang="en" type="html">
+      <![CDATA[
+<h2 id="work-week" tabindex="-1" class="govuk-heading-l">Work week</h2>
+<p class="govuk-body">Started the week confirming we were delaying the site launch originally planned for Thursday. Instead we will make use of support from some very helpful developers from another team to build something easier to deploy and maintain longer term.</p>
+<p class="govuk-body">Cue a slightly awkward call on Tuesday where new team asks us for the list of requirements our developer has been working to. We’ve just been moving too fast, and re-using our existing knowledge tech and decisions, to formally specify things in a way that a brand new developer could use. We have everything they need, it’s just a little… separated.</p>
+<p class="govuk-body">Handily the original site in development is so close to what we need for launch that it works as one big requirement. Even more luckily, it turns out that the other team were already exploring using <a href="https://wagtail.org/" class="govuk-link">Wagtail CMS</a> for their own products. They just needed something to really test it out on…</p>
+<p class="govuk-body">So we’ve quickly got a rough new version of the site up and running, and the CMS looks to do what we need it to in terms of of structured content. Despite the delay of a couple weeks I’m hopeful we’ll be in a much better place to deliver value for users and the wider team longer term. I’m also heartened that we’re building a relationship with a like-minded team that could lead to smarter working in future.</p>
+<p class="govuk-body">I’ve realised we need to make sure we’re communicating this in the story of the work: we’ve essentially built and tested a very high fidelity prototype over 8 days, rapidly working out what was feasible and what was risky. Sharing this learning openly and widely has then allowed us to build a better product closer to what both users and the organisation needs.</p>
+<p class="govuk-body">I then spent most of the rest of the week quickly gathering together existing documentation and ideas, like our content models and frontend design decisions, into accessible, coherent requirements. This has been quietly satisfying work. By Thursday I was even starting to feel like a designer again.</p>
+<p class="govuk-body">Also on Thursday we held our monthly cross-government ‘design council’ for the Digital and Data profession’s framework. There were no proposals for representatives to review this month, so we took the chance to explain the above work, and share a survey to help us understand how organisations go about making decisions about proposals. We also let everyone know that due to the reduced team capacity for the next 2 months, we are re-planning all the content development work currently in progress.</p>
+<p class="govuk-body">I’m still pushing to get the skills update for the ‘content designer’ role published in May. This extremely meta work (designing content for content designers to assess their design skills) now just needs test materials for the latest draft for heads of content/design to share with a sample of designers in their organisations. Finding the time to create said test material is another thing.</p>
+<p class="govuk-body">At the end of the week my line manager passed on some nice feedback from leadership on my approach to the challenges this past few weeks. Have to say, it really does make a difference to personal morale. I need to make sure there’s public recognition of the team’s work soon.</p>
+<h2 id="other-things" tabindex="-1" class="govuk-heading-l">Other things</h2>
+<p class="govuk-body">Started working on my pitch for SDinGov. The theme this year is ‘democratising design’.</p>
+<p class="govuk-body">I’ve enjoyed considering what people might take from our experience running a product where key users can propose significant changes - and then have cross-government representatives actually vote on them.</p>
+<p class="govuk-body">I’m thinking about where this level of participation might be useful in other contexts, but also where it might cause issues! Deadline to submit is 9 March.</p>
+<h2 id="reading" tabindex="-1" class="govuk-heading-l">Reading</h2>
+<ul class="govuk-list govuk-list--bullet">
+<li><a href="https://transform.wales/blog/2026/from-outputs-to-outcomes-redefining-public-sector-success/" class="govuk-link">From outputs to outcomes: redefining public sector success - Transform Wales</a></li>
+<li><a href="https://emilywebber.co.uk/a-new-communities-of-practice-model-for-organisational-maturity/" class="govuk-link">A New Communities of Practice Model for Organisational Maturity - Emily Webber</a></li>
+<li><a href="https://www.rpp.works/ways-of-doing/talk-transforming-health-and-delivering-the-nhs-10-year-plan/" class="govuk-link">Transforming health and delivering the NHS 10-year plan - Richard Pope</a></li>
+<li><a href="https://medium.com/kainosxd/documenting-a-service-as-a-content-designer-d320af7f2604" class="govuk-link">Documenting a service as a content designer - Amy Noss</a></li>
+<li><a href="https://ademolaadepoju.substack.com/p/what-do-companies-actually-want-from" class="govuk-link">What Do Companies Actually Want from Content Designers in 2026? - Ademola Adepoju</a></li>
+</ul>
+
+      ]]>
+    </content>
+  </entry>
   <entry>
     <title>Realistic - 16 to 20 February</title>
     <link href="/weeknotes/22-02-2026/"/>
