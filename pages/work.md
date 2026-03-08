@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work
-includeInBreadcrumbs: true
+includeInBreadcrumbs: false
 ---
 
 ## Government Digital Service (GDS), 2025 to now

@@ -8,7 +8,7 @@ pagination:
   reverse: true
 eleventyNavigation:
   key: Weeknotes
-includeInBreadcrumbs: true
+includeInBreadcrumbs: false
 ---
 
 Postcards from the edge.
