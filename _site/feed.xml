@@ -2,8 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="false">
   <title>Feed</title>
   <link href="/feed.xml" rel="self"/>
-  <updated>2026-03-14T00:00:00Z</updated>
+  <updated>2026-03-21T00:00:00Z</updated>
   <id>false</id>
+  <entry>
+    <title>Human - 16 to 20 March</title>
+    <link href="/weeknotes/21-03-2026/"/>
+    <updated>2026-03-21T00:00:00Z</updated>
+    <id>/weeknotes/21-03-2026/</id><content xml:lang="en" type="html">
+      <![CDATA[
+<h2 id="work-week" tabindex="-1" class="govuk-heading-l">Work week</h2>
+<p class="govuk-body">Great start to the week on <strong>Monday</strong>, thanks to the marvellous Giles Turnbull presenting to the organisation on the benefits of <a href="https://gilest.org/notes/2026/codes/" class="govuk-link">‘writing like a human’, even internally</a>. I’ve very briefly worked with Giles before in a past job (he absolutely won’t remember), and long followed his writing on all things communication, so it was particularly great to see leadership visibly endorsing his approaches. Hopefully this translates into more real, direct voices in our communication across the organisation. It’s certainly given me more confidence to 1) be more human in my writing both here and at work, and 2) make suggestions to colleagues on their writing where it’s helpful, even if it’s just “can we use the actual 3 word name for this thing, instead of 4 different acronyms?”.</p>
+<p class="govuk-body">On <strong>Tuesday</strong> I helped host the latest ‘X-Gov Sheffield’ breakfast and lunch meetups for public sector folk around here. Once again, the diversity of people who turned up is really cool: different councils and departments, designers, policy people, change management people, HR people, even Network Rail… I’m especially pleased to see that local government people from different organisations seem to have taken to the idea. Think they get a lot of value from both meeting other kinds of ‘local’ people, and mixing with the central government people.  Myself and the co-organisers had a little retro later in the week, and brainstormed some nice ideas to boost the effects of this informal networking in future.</p>
+<p class="govuk-body">Day job work things this week are a bit blurry, so let’s see what I can remember. So much going on and changing across my team and wider… think it’s felt like a lot of helping others get clarity on a way forward, nudging towards open working, but not much time for my own stuff.</p>
+<p class="govuk-body">On <strong>Thursday</strong>, my fellow framework content designer and I joined a content strategy workshop run by another team looking at a whole domain of government guidance we’re a part of. The facilitators did a great job bringing together a wide range of stakeholders and getting different views out, but mainly due to tool access issues, it didn’t feel like we had the space for structured input and thinking. Good reminder for our team on getting the basics of collaboration in place. For example, what tools can we use that do not need accounts? Or could a simple document have been used instead of flashier virtual whiteboard?</p>
+<p class="govuk-body">Also on Thursday we said a sad goodbye to our passionate service owner. They’ve done a valiant job for a year, and I think there will be some really interesting long term positive effects from their ideas. Just wish making a difference didn’t often feel like a <a href="https://medium.com/the-service-gazette/the-long-slog-of-public-service-transformation-c129d626a7f0" class="govuk-link">long slog</a> for reformers/transformers in the public sector. More happily I’ve heard that interviews for their replacement have gone very well. Fingers crossed they can pick up the baton with a refreshed energy and focus.</p>
+<p class="govuk-body">Related, the team’s OKR approach from <a href="/weeknotes/14-03-2026" class="govuk-link">last week</a> seems to have landed and is helping the new co-leaders of our area. They’re also taking a suggestion of some sort of <a href="https://visitmy.website/2026/02/11/leadership-health-metrics/" class="govuk-link">leadership health metric</a> seriously and are trying to put one or two in place.</p>
+<p class="govuk-body">This suggestion came about because I have a new annoying habit: whenever I hear someone say “we’re taking a test and learn approach with this”, but with no more details, I say “that’s great to hear. So how will you know if what we’re testing is working, and how can we spread what we learn?”.</p>
+<p class="govuk-body">Finally, on <strong>Friday</strong> I met with a couple of heads of delivery for a kick off. This group have had their proposal for a new role description in the ‘product and delivery’ role family of the Digital and Data Profession Capability Framework accepted by our governance council - so now the fun stuff!</p>
+<p class="govuk-body">We met so I could scope the kind of design work needed (how established is this role? How similar is it across government? How certain are they about those things?), and I could take them through our guidance and templates. This has reminded me that I need to set down in more detail my principles for designing effective role and skill descriptions. Maybe something for a future weeknote?</p>
+<h2 id="other-things" tabindex="-1" class="govuk-heading-l">Other things</h2>
+<p class="govuk-body">The second half of the week was shadowed over by a funky headcold. In turn I realised mid-Thursday my patience had become as thin as an elephant-arse-crushed sticky bun - only natural when ill and tired. But I don’t want to stay in this zone for too long, I need to live up to my mugs, after all.</p>
+<figure><img src="/assets/images/blog/headofmorale-bestdadinyorkshire.jpeg" alt="Two mugs on a dark brown wood kitchen top. On the left is a white mug with grey capitalised text that reads 'HEAD OF MORALE'. On the right is a blue mug, with black text in a pale yellow circle that reads 'BEST DAD IN YORKSHIRE'."><figcaption>Mugs of morale</figcaption></figure>
+<h2 id="reading" tabindex="-1" class="govuk-heading-l">Reading</h2>
+<ul class="govuk-list govuk-list--bullet">
+<li><a href="https://leisareichelt.substack.com/p/what-went-wrong-with-the-bom-redesign" class="govuk-link">What went wrong with the BOM redesign? - Leisa Reichelt</a></li>
+<li><a href="https://productinservice.substack.com/p/escaping-the-product-operating-model" class="govuk-link">Escaping the product operating model - Scott Colfer</a></li>
+<li><a href="https://reasonstobecheerful.world/breakthrough-method-netherlands/" class="govuk-link">How the Netherlands bent bureaucracy into something beautiful - Michaela Haas</a></li>
+<li><a href="https://boringmagi.cc/case-studies/leading-ai-product-innovation-on-planning-data-gov-uk/" class="govuk-link">Leading AI product innovation on planning.data.gov.uk - Steve Messer</a></li>
+<li><a href="https://www.frank.computer/blog/2026/03/prototyping-bottleneck.html" class="govuk-link">Was prototyping really a bottleneck?- Frank Elavsky</a></li>
+<li><a href="https://public.digital/pd-insights/blog/2026/03/the-solution-first-survival-playbook-from-govcamp-2026" class="govuk-link">The “solution-first” survival playbook from GovCamp 2026 - Oli Lovell</a></li>
+</ul>
+
+      ]]>
+    </content>
+  </entry>
   <entry>
     <title>Vertigo - 9 to 13 March</title>
     <link href="/weeknotes/14-03-2026/"/>
