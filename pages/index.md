@@ -13,4 +13,4 @@ Postcards from the edge.
 Where I've worked and what I did there.
 
 ## [Links](/links)
-Things on the internet I've found useful for work, or just cool.
+Things from the internet.
