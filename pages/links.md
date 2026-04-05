@@ -4,7 +4,7 @@ title: Links
 includeInBreadcrumbs: false
 ---
 
-Links to useful or cool things, some from my [weeknotes](/weeknotes).
+Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 [[toc]]
 
@@ -50,39 +50,39 @@ Links to useful or cool things, some from my [weeknotes](/weeknotes).
 
 [No more big bang launches - Abi Cox](https://abicox.medium.com/no-more-big-bang-launches-81f0ce5fdc91)
 
-[Narrative object modelling for designers- AUTHOR](https://hpadkisson.medium.com/object-modeling-for-designers-an-introduction-7871bdcf8baf)
+[Narrative object modelling for designers- Heidi Adkisson](https://hpadkisson.medium.com/object-modeling-for-designers-an-introduction-7871bdcf8baf)
 
-[GOV.UK Prototype Kit - Data driven prototyping](https://joelanman.com/posts/govuk-prototype-kit-data/)
+[GOV.UK Prototype Kit: Data driven prototyping - Joe Lanman](https://joelanman.com/posts/govuk-prototype-kit-data/)
 
-[Accessible design is digital infrastructure](https://annaecook.com/writing/2026/2/2/accessible-design-is-digital-infrastructure)
+[Accessible design is digital infrastructure - Anna Cook](https://annaecook.com/writing/2026/2/2/accessible-design-is-digital-infrastructure)
 
-[Your brain does not process information and is not a computer](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer)
+[Your brain does not process information and is not a computer - Pam Weintraub](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer)
 
-[AI Skills Hub: a content critique](https://contentdesign.london/blog/ai-skills-hub-a-content-critique)
+[AI Skills Hub: a content critique - Sarah Winters](https://contentdesign.london/blog/ai-skills-hub-a-content-critique)
 
 [GOV Reuse Library](https://dev.reuselibrary.service.justice.gov.uk/)
 
-[Shifting Roles - From Content Professionals to Ontologists](https://www.thecontentwrangler.com/p/shifting-roles-from-content-professionals)
+[Shifting Roles - From Content Professionals to Ontologists - Scott Abel](https://www.thecontentwrangler.com/p/shifting-roles-from-content-professionals)
 
-[Leadership health metrics](https://visitmy.website/2026/02/11/leadership-health-metrics/)
+[Leadership health metrics - Steve Messer](https://visitmy.website/2026/02/11/leadership-health-metrics/)
 
-[Sheffield Design Lab](https://futureobservatory.org/news/sheffield-design-lab-uk2040)
+[Sheffield Design Lab - Dan Hill](https://futureobservatory.org/news/sheffield-design-lab-uk2040)
 
-[Seeing Everything, Understanding Nothing (The Context Trap)](https://cutlefish.substack.com/p/tbm-406-seeing-everything-understanding)
+[Seeing Everything, Understanding Nothing (The Context Trap) - John Cutler](https://cutlefish.substack.com/p/tbm-406-seeing-everything-understanding)
 
-[Practice notes on including citizens in the design process](https://civicworks.substack.com/p/practice-notes-on-including-citizens)
+[Practice notes on including citizens in the design process - Jack Strachan](https://civicworks.substack.com/p/practice-notes-on-including-citizens)
 
-[Tackling technical debt without stopping delivery](https://rummanamin.co.uk/tackling-technical-debt-without-stopping-delivery/)
+[Tackling technical debt without stopping delivery - Rumman Amin](https://rummanamin.co.uk/tackling-technical-debt-without-stopping-delivery/)
 
-[Britain Lost 14,000 Third Places. They Were Called Pubs. Is Your Local Next?](https://laurenleek.substack.com/p/britain-lost-14000-third-places-they)
+[Britain Lost 14,000 Third Places. They Were Called Pubs. Is Your Local Next? - Lauren Leek](https://laurenleek.substack.com/p/britain-lost-14000-third-places-they)
 
-[AI and the end of friction as a policy lever](https://tomloosemorework.wordpress.com/2026/02/19/ai-and-the-end-of-friction-as-a-policy-lever/)
+[AI and the end of friction as a policy lever - Tom Loosemore](https://tomloosemorework.wordpress.com/2026/02/19/ai-and-the-end-of-friction-as-a-policy-lever/)
 
-[A decade later – launching the ONS website in 2016](https://digitalbydefault.com/2026/02/21/a-decade-later-launching-the-ons-website-in-2016/)
+[A decade later: launching the ONS website in 2016 - Matt Jukes](https://digitalbydefault.com/2026/02/21/a-decade-later-launching-the-ons-website-in-2016/)
 
-[How to design a style guide (that people can actually use)](https://www.scroll.co.uk/scroll-blog/how-to-design-a-style-guide)
+[How to design a style guide (that people can actually use) - Angela Moore](https://www.scroll.co.uk/scroll-blog/how-to-design-a-style-guide)
 
-[The public deserves services that are useful, usable and safe](https://contentdesign.london/blog/the-public-deserves-services-that-are-useful-usable-and-safe)
+[The public deserves services that are useful, usable and safe- Sarah Winters and Matt Billingsley](https://contentdesign.london/blog/the-public-deserves-services-that-are-useful-usable-and-safe)
 
 [Wagtail CMS](https://wagtail.org/)
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weeknotes/07-02-2026.md",
+                "file": "links.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "07-02-2026"
+              "title": "links"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weeknotes/07-02-2026.md",
+                "file": "links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 07-02-2026"
+              "title": "Backlinks for links"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weeknotes/07-02-2026.md",
+                "file": "links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 07-02-2026"
+              "title": "Outgoing links from links"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weeknotes/07-02-2026.md",
+                "file": "links.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 07-02-2026"
+              "title": "Outline of links"
             }
           }
         ]
@@ -185,10 +185,14 @@
   },
   "active": "410803f730e5b571",
   "lastOpenFiles": [
-    "weeknotes/03-04-2026.md",
-    "weeknotes/07-02-2026.md",
-    "weeknotes/14-02-2026.md",
+    "work.md",
+    "links.md",
+    "weeknotes.md",
+    "index.md",
     "weeknotes/14-03-2026.md",
+    "weeknotes/14-02-2026.md",
+    "weeknotes/07-02-2026.md",
+    "weeknotes/03-04-2026.md",
     "weeknotes/22-02-2026.md",
     "weeknotes/21-03-2026.md",
     "weeknotes/28-02-2026.md"
