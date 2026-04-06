@@ -1,15 +1,13 @@
+
 ---
 layout: page
 title: Links
 includeInBreadcrumbs: false
 ---
 
-Links to useful or cool things, most from my [weeknotes](/weeknotes).
-
+All links to useful things from my [weeknotes](/weeknotes), and some other places.
 [[toc]]
-
 ***
-
 ## March 2026
 
 [Highlighter test: a simple technique for evaluating content - User research in government](https://userresearch.blog.gov.uk/2014/09/02/a-simple-technique-for-evaluating-content/)
@@ -44,8 +42,22 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 [The “solution-first” survival playbook from GovCamp 2026 - Oli Lovell](https://public.digital/pd-insights/blog/2026/03/the-solution-first-survival-playbook-from-govcamp-2026)
 
-***
+[Navigating the labyrinth: Socio-economic background and career progression within the Civil Service](https://www.gov.uk/government/publications/navigating-the-labyrinth/navigating-the-labyrinth-socio-economic-background-and-career-progression-within-the-civil-service)
 
+[I built an AI service mapping tool - Sarah Drummond](https://sarah-drummond.com/2026/03/i-built-an-ai-service-mapping-tool/)
+
+[Content architecture is not content infrastructure - Joe Phillips](https://open.substack.com/pub/theexaminedweb/p/architecture-is-not-infrastructure)
+
+[Mist: Share and edit Markdown together, quickly - Matt Webb](https://interconnected.org/home/2026/02/12/mist)
+
+[When AI answers the question, what happens to the journey? - Mark Edwards](https://designnotes.blog.gov.uk/2026/03/31/when-ai-answers-the-question-what-happens-to-the-user-journey/)
+
+[A new flatpack collaborative model for the public sector - Will Callaghan](https://willcallaghan.com/new-flatpack-collaborative-model-for-the-public-sector/)
+
+[Reality drift - Steve Messer](https://boringmagi.cc/2026/04/02/reality-drift/)
+
+[On failure. Or, one song to the tune of another - Sarah Fisher](https://medium.com/@sarah-fisher/on-failure-or-one-song-to-the-tune-of-another-04f02e47d7ce)
+***
 ## February 2026
 
 [No more big bang launches - Abi Cox](https://abicox.medium.com/no-more-big-bang-launches-81f0ce5fdc91)
