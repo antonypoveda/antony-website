@@ -4,7 +4,8 @@ title: Links
 includeInBreadcrumbs: false
 ---
 
-All links to useful things from my [weeknotes](/weeknotes), and some other places.
+Links to useful or cool things, most from my [weeknotes](/weeknotes).
+
 [[toc]]
 ***
 ## March 2026

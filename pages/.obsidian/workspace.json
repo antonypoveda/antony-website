@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -183,7 +183,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "410803f730e5b571",
+  "active": "e00d7e887c8a5432",
   "lastOpenFiles": [
     "index.md",
     "links.md",
