@@ -9,6 +9,8 @@ Designing frameworks, standards and guidance for teams building public services.
 
 As an example, here's a write up of work I led to [update the skill descriptions for user-centered design roles](https://designnotes.blog.gov.uk/2024/12/03/updating-design-skills-in-the-government-digital-and-data-capability-framework/).
 
+You can also check [what I'm working on now](/now) and my latest [weeknotes](/weeknotes).
+
 ## Central Digital and Data Office (CDDO), 2023 to 2025
 Same thing as above, before the organisation was brought into GDS in January 2025.
 
