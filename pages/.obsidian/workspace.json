@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "now.md",
+                "file": "contact.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "now"
+              "title": "contact"
             }
           }
         ]
@@ -184,8 +184,8 @@
   },
   "active": "410803f730e5b571",
   "lastOpenFiles": [
-    "work.md",
     "now.md",
+    "work.md",
     "index.md",
     "contact.md",
     "links.md",
