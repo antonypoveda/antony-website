@@ -9,8 +9,24 @@ export default function(eleventyConfig) {
   eleventyConfig.addPlugin(govukEleventyPlugin,
     {
       footer: {
+        meta: {
+    items: [
+      {
+        href: "/contact",
+        text: "Contact"
+      },
+      {
+        href: "/now",
+        text: "Now"
+      },
+      {
+        href: "/feed.xml",
+        text: "RSS feed"
+      }
+    ]
+  },
         contentLicence: {
-          html: 'Email: <a class="govuk-footer_link" href="mailto:hello@antonypoveda.design">hello@antonypoveda.design</a> <br><br> Content available under the <a class="govuk-footer_link" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0) license</a>, unless otherwise stated.'
+          html: 'Content available under the <a class="govuk-footer_link" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0) license</a>, unless otherwise stated.'
           },
           copyright: false,
         logo: false
