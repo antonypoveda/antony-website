@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contact.md",
+                "file": "weeknotes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "contact"
+              "title": "weeknotes"
             }
           }
         ]
@@ -184,14 +184,14 @@
   },
   "active": "410803f730e5b571",
   "lastOpenFiles": [
+    "index.md",
+    "weeknotes.md",
+    "links.md",
+    "contact.md",
     "now.md",
     "work.md",
-    "index.md",
-    "contact.md",
-    "links.md",
     "weeknotes/05-04-2026.md",
     "weeknotes/07-02-2026.md",
-    "weeknotes.md",
     "weeknotes/14-03-2026.md",
     "weeknotes/14-02-2026.md",
     "weeknotes/22-02-2026.md",

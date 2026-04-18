@@ -7,7 +7,7 @@ description: I'm a designer in Sheffield, UK. I mainly work on the strategy, des
 I'm gradually building and changing this website in the odd moment of free time around work, family and pub quizzes. For now there are 3 main parts to the site.
 
 ## [Weeknotes](/weeknotes)
-Postcards from the edge.
+Postcards from the edge of the centre.
 
 ## [Work](/work)
 Where I've worked and what I did there.

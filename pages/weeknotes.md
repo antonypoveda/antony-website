@@ -11,5 +11,6 @@ eleventyNavigation:
 includeInBreadcrumbs: false
 ---
 
-Postcards from the edge.
+As a public servant I write (nearly) weekly notes to let people see what I do at [work](/work).
 
+Here's some great advice if you'd like to start [doing weeknotes](https://gilest.org/doingweeknotes/index.html).

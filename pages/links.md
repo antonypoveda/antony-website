@@ -111,3 +111,7 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 ## Evergreen
 ["If we try to play like the Yankees in here, we will lose to the Yankees out there" (quote) - Moneyball](https://www.youtube.com/watch?v=krZVcOMTR98)
+
+[What makes a good outcome - Jamie Arnold](https://www.jamiearnold.com/blog/2025/5/1/what-makes-a-good-outcome)
+
+[Archive: agile comms, working in the open - Giles Turnbull](https://gilest.org/notes/archive.html)
