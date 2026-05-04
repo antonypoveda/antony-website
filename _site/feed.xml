@@ -2,8 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="false">
   <title>Feed</title>
   <link href="/feed.xml" rel="self"/>
-  <updated>2026-04-05T00:00:00Z</updated>
+  <updated>2026-05-04T00:00:00Z</updated>
   <id>false</id>
+  <entry>
+    <title>Leave - April 2026</title>
+    <link href="/weeknotes/04-05-2026/"/>
+    <updated>2026-05-04T00:00:00Z</updated>
+    <id>/weeknotes/04-05-2026/</id><content xml:lang="en" type="html">
+      <![CDATA[
+<p class="govuk-body">I was on paternity leave for most of April, which has been magical. And while I was supposed to be in full on baby mode, my brain couldn’t help doing <em>other things</em>. Here are some of those things…</p>
+<h2 id="tinkering-with-this-site" tabindex="-1" class="govuk-heading-l">Tinkering with this site</h2>
+<p class="govuk-body">Most mornings I’ve been able to take Kid B out to a cafe for an hour or two. Aside from reading, sometimes I messed around with this website.</p>
+<p class="govuk-body">Things I added:</p>
+<ul class="govuk-list govuk-list--bullet">
+<li><a href="/links" class="govuk-link">Links page</a>, to collect links from weeknotes</li>
+<li><a href="/now" class="govuk-link">Now page</a>, to explain what I’m currently focused on</li>
+<li><a href="/contact" class="govuk-link">Contact page</a>, so people can reach out</li>
+<li><a href="/feed.xml" class="govuk-link">RSS feed</a>, like all the cool kids have</li>
+<li>a site footer menu, to include links to some of the added things</li>
+</ul>
+<p class="govuk-body">Things I thought about:</p>
+<ul class="govuk-list govuk-list--bullet">
+<li>changing font family and background colour</li>
+<li>documenting tools I like to use, like Obsidian and Twine (see below)</li>
+<li>making more of tags</li>
+<li>writing things that aren’t only weeknotes</li>
+</ul>
+<h2 id="finding-useful-things" tabindex="-1" class="govuk-heading-l">Finding useful things</h2>
+<p class="govuk-body">Found and tested out a couple of tools that could prove useful for the day job.</p>
+<p class="govuk-body"><a href="https://mist.inanimate.tech/" class="govuk-link">Mist</a> - created by <a href="https://interconnected.org/" class="govuk-link">Matt Webb</a>, Mist allows multiple people to work on the same markdown file, includes comments.</p>
+<p class="govuk-body">Helpful for: avoiding trying to “collaborate” in Word.</p>
+<p class="govuk-body"><a href="https://twinery.org/" class="govuk-link">Twine</a> - primarily designed for creating ‘choose your own adventure’-style interactive fiction, Twine also work as a basic HTML prototype generator. You can copy in pages of markdown to quickly create a set of linked pages with very little technical knowledge. And because it’s just a file, a user can open it easily in their browser for testing.</p>
+<p class="govuk-body">We actually used Twine to sketch out our <a href="https://rising-ape.com/front-page/grid/presents/publish-or-perish/" class="govuk-link">interactive theatre shows</a> for Rising Ape (see below) and I am made up to remember it and work out how useful it is for content design. I should probably write this up into its own post.</p>
+<p class="govuk-body">Helpful for: avoiding faffing in Figma and risking inaccessible prototypes</p>
+<p class="govuk-body"><a href="https://netnewswire.com/" class="govuk-link">NetNewsWire</a> + <a href="https://feedly.com/i/my/me" class="govuk-link">Feedly</a> - Yes, RSS feed readers. Rest assured, if you’re writing interesting stuff, I am typing ‘/feed’ in your sites URL and grabbing it.</p>
+<p class="govuk-body">Helpful for: avoiding “social” media.</p>
+<h2 id="sorting-out-an-old-website" tabindex="-1" class="govuk-heading-l">Sorting out an old website</h2>
+<p class="govuk-body">I caught up with my pal <a href="https://www.linkedin.com/in/jamesrileyrac/" class="govuk-link">James Riley</a> and we talked about what to do with the website for our old side hustle/creative outlet, <a href="https://rising-ape.com" class="govuk-link">Rising Ape Collective</a>.</p>
+<p class="govuk-body">We decided we’re going to keep the site up, and make clear that the group is now longer active. The running costs are very low and we think it’s still a useful record of what the people in Rising Ape achieved in the fields of science communication and public engagement with research. The live events in particular were so much fun to create, and you never know what ideas might be sparked by having them documented.</p>
+<p class="govuk-body">I contacted everyone we worked with to see if they were ok with keeping their name and role on the site. Obviously, it’s important that people can control the info about themselves on the internet. It’s also been lovely to hear back from everyone and see what they’re up to.</p>
+<p class="govuk-body">There’s also been some cool comments on how getting involved with Rising Ape helped people’s careers. We’d always thought of the group as a kind of ‘scicomm accelerator’ that gave people space to experiment and get experience in different parts of the field. It’s super nice to hear this validated years later. And maybe one day, the Ape will rise again?</p>
+<h2 id="reading-books" tabindex="-1" class="govuk-heading-l">Reading books</h2>
+<p class="govuk-body">Incredibly, I read, from cover to cover, 3 (THREE) books in April.</p>
+<p class="govuk-body">The Great Zoo of China by Matthew Reilly - A handy book to start while nervously waiting in a hospital. Absolutely ridiculous.</p>
+<p class="govuk-body">Dr Jekyll and Mr Hyde, and other short stories by Robert Louis Stevenson - So victorian it hurt.</p>
+<p class="govuk-body">The Beach by Alex Garland - Made me miss travelling. Felt very ‘first book’. Nicely unhinged.</p>
+<p class="govuk-body">High on my success, I just ordered 5 more books including <a href="https://www.hive.co.uk/Product/Helen-Gaskell/The-Regency-Switch/31621405" class="govuk-link">The Regency Switch</a> by brilliant former colleague <a href="https://www.helengaskell.co.uk/" class="govuk-link">Helen Gaskell.</a> Stay tuned for a review in, oh I don’t know, 3 years?</p>
+<h2 id="reading-the-internet" tabindex="-1" class="govuk-heading-l">Reading the internet</h2>
+<p class="govuk-body">I also read a lot of great blogs and articles. Way too many to link here, so here is small selection and the rest have been saved on the <a href="/links" class="govuk-link">Links page</a>.</p>
+<ul class="govuk-list govuk-list--bullet">
+<li><a href="https://annaecook.com/writing/2026/ai-prototyping-harder-worser-faster-wronger" class="govuk-link">AI Prototyping: Harder. Worser. Faster. Wronger. - Anna E Cook</a></li>
+<li><a href="https://lapope.com/2026/04/06/what-being-self-employed-in-content-really-looks-like/" class="govuk-link">What being self-employed-content-really-looks-like - Lauren Pope</a></li>
+<li><a href="https://surfingcomplexity.blog/2026/01/24/because-coordination-is-expensive/" class="govuk-link">Because coordination is expensive - Lorin Hochstein</a></li>
+<li><a href="https://digital.nhs.uk/blog/design-matters/2026/one-design-system-is-better-than-2" class="govuk-link">One design system is better than 2 - Frankie Roberto</a></li>
+<li><a href="https://mikegallagher.org/posts/from-garbage-can-to-compost-heap/" class="govuk-link">From Garbage Can to Compost Heap - Mike Gallagher</a></li>
+</ul>
+<h2 id="working-a-bit" tabindex="-1" class="govuk-heading-l">Working a bit</h2>
+<p class="govuk-body">The last week of April I settled back into work after 4 weeks off. We did some quite intense working on ‘ways of working’. Quite tough for a first week back but necessary given our new team members and a migration to Jira while I was away. I also squeaked in some design work, collating  and analysing responses from a highlighter test on the updated skill descriptions for designers.</p>
+<p class="govuk-body">Next week is the start of our ‘publishing sprint’ to the end of the month. I’ll be working closely with our cross-government working groups to finalise changes to content for the <a href="https://ddat-capability-framework.service.gov.uk/" class="govuk-link">Digital and Data Profession Capability Framework</a>, to go live on 29 May. This should include the long awaited changes to the ‘content designer’ role, which is pleasingly meta.</p>
+
+      ]]>
+    </content>
+  </entry>
   <entry>
     <title>New - 23 to 27 March</title>
     <link href="/weeknotes/05-04-2026/"/>

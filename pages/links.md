@@ -7,7 +7,50 @@ includeInBreadcrumbs: false
 Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 [[toc]]
+
 ***
+
+## April 2026
+
+
+[AI Prototyping: Harder. Worser. Faster. Wronger. - Anna E Cook](https://annaecook.com/writing/2026/ai-prototyping-harder-worser-faster-wronger)
+
+[What being self-employed-content-really-looks-like - Lauren Pope](https://lapope.com/2026/04/06/what-being-self-employed-in-content-really-looks-like/)
+
+[Because coordination is expensive - Lorin Hochstein](https://surfingcomplexity.blog/2026/01/24/because-coordination-is-expensive/)
+
+[One design system is better than 2 - Frankie Roberto](https://digital.nhs.uk/blog/design-matters/2026/one-design-system-is-better-than-2)
+
+[From Garbage Can to Compost Heap - Mike Gallagher](https://mikegallagher.org/posts/from-garbage-can-to-compost-heap/)
+
+[Why we should work in the open - Co-Op Digital Blog](https://digitalblog.coop.co.uk/2022/10/19/why-we-should-work-in-the-open/)
+
+[Stop searching for AI use cases, design AI into services - Richard Pope](https://www.rpp.works/ways-of-doing/stop-searching-for-ai-use-cases-design-ai-into-services/)
+
+[Should the long tail wag the dog? - Stefan Czerniawski](https://www.publicstrategist.com/2011/12/should-the-long-tail-wag-the-dog/)
+
+[Before You Fire All Your Glue People Because of AI - John Cutler](https://open.substack.com/pub/cutlefish/p/tbm-417-before-you-fire-all-your)
+
+[Mandate levels - John Cutler](https://cutlefish.substack.com/p/tbm-2752-mandate-levels)
+
+[Writing a business plan in NHS England - Daniel Bower](https://danielbower.com/2026/03/31/nhs-england-business-plan.html)
+
+[When Decisions Drift: The Garbage Can Model and NHS Digital Transformation - Tito Castillo](https://www.linkedin.com/pulse/when-decisions-drift-garbage-can-model-nhs-digital-tito-stuse/)
+
+[How we're preventing AI misinformation at DBT - Digital Trade blog](https://digitaltrade.blog.gov.uk/2026/04/20/how-were-preventing-ai-misinformation-at-dbt/)
+
+[Using the GOV.UK Prototype Kit with GitHub Codespaces - Joe Lanman](https://joelanman.com/posts/govuk-prototype-kit-github-codespaces/)
+
+[Are we really saving that much time? - Content Folks](https://contentfolks.substack.com/p/is-ai-really-saving-time)
+
+[The people do not yearn for automation - Nilay Patel](https://pocketcasts.com/podcast/decoder-with-nilay-patel/01a33f10-fcfe-0132-18b7-059c869cc4eb/the-people-do-not-yearn-for-automation/a3d79933-2fa5-4d6a-90e7-c0022f198955)
+
+[Your ego is hurting your career - Scott Berkun](https://open.substack.com/pub/whydesignishard/p/designer-ego-is-in-the-way)
+
+[Dual Track Development is not Duel Track - Jeff Patton](https://jpattonassociates.com/dual-track-development/)
+
+***
+
 ## March 2026
 
 [Highlighter test: a simple technique for evaluating content - User research in government](https://userresearch.blog.gov.uk/2014/09/02/a-simple-technique-for-evaluating-content/)
@@ -26,7 +69,7 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 [Why content design exists - Rich Prowse](https://contentdesign.london/blog/why-content-design-exists)
 
-["Apply the same content design rules to internal documents" (quote) - Giles Turnbull](https://gilest.org/notes/2026/codes/)
+ ["Apply the same content design rules to internal documents" (quote) - Giles Turnbull](https://gilest.org/notes/2026/codes/)
  
 [The long slog of public sector transformation - Kara Kane and Martin Jordan](https://medium.com/the-service-gazette/the-long-slog-of-public-service-transformation-c129d626a7f0)
 
@@ -57,7 +100,9 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 [Reality drift - Steve Messer](https://boringmagi.cc/2026/04/02/reality-drift/)
 
 [On failure. Or, one song to the tune of another - Sarah Fisher](https://medium.com/@sarah-fisher/on-failure-or-one-song-to-the-tune-of-another-04f02e47d7ce)
+
 ***
+
 ## February 2026
 
 [No more big bang launches - Abi Cox](https://abicox.medium.com/no-more-big-bang-launches-81f0ce5fdc91)
@@ -84,7 +129,7 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 [Practice notes on including citizens in the design process - Jack Strachan](https://civicworks.substack.com/p/practice-notes-on-including-citizens)
 
-[Tackling technical debt without stopping delivery - Rumman Amin](https://rummanamin.co.uk/tackling-technical-debt-without-stopping-delivery/)
+ [Tackling technical debt without stopping delivery - Rumman Amin](https://rummanamin.co.uk/tackling-technical-debt-without-stopping-delivery/)
 
 [Britain Lost 14,000 Third Places. They Were Called Pubs. Is Your Local Next? - Lauren Leek](https://laurenleek.substack.com/p/britain-lost-14000-third-places-they)
 
@@ -96,7 +141,7 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 [The public deserves services that are useful, usable and safe- Sarah Winters and Matt Billingsley](https://contentdesign.london/blog/the-public-deserves-services-that-are-useful-usable-and-safe)
 
-[Wagtail CMS](https://wagtail.org/)
+ [Wagtail CMS](https://wagtail.org/)
 
 [From outputs to outcomes: redefining public sector success - Transform Wales](https://transform.wales/blog/2026/from-outputs-to-outcomes-redefining-public-sector-success/)
 
@@ -107,6 +152,7 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 [Documenting a service as a content designer - Amy Noss](https://medium.com/kainosxd/documenting-a-service-as-a-content-designer-d320af7f2604)
 
 [What Do Companies Actually Want from Content Designers in 2026? - Ademola Adepoju](https://ademolaadepoju.substack.com/p/what-do-companies-actually-want-from)
+
 ***
 
 ## Evergreen
@@ -115,3 +161,5 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 [What makes a good outcome - Jamie Arnold](https://www.jamiearnold.com/blog/2025/5/1/what-makes-a-good-outcome)
 
 [Archive: agile comms, working in the open - Giles Turnbull](https://gilest.org/notes/archive.html)
+
+[A Garbage Can Model of Organizational Choice - Michael D. Cohen, James G. March and Johan P. Olsen](https://www.jstor.org/stable/2392088)
