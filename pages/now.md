@@ -5,7 +5,27 @@ includeInBreadcrumbs: false
 ---
 This [now page](https://nownownow.com) explains what I'm currently focused on. For more on what I've been up to, check my [weeknotes](/weeknotes).
 
-## Now: April 2026
+## Now: May 2026
+### Work
+
+* Back to working with groups of experts across content design and data engineering on updates for the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/) to go live at the end of the month.
+
+### On the side
+* Updating our old [Rising Ape Collective](https://rising-ape.com) website, so it acts as a record of what we achieved 'creating playful spaces for encountering research, tech and society' between 2015 and 2020.
+
+### Personal
+* Having fun balancing new baby and work and other bits of life. Enjoying the evening walks with the carrier again.
+* Looking for a new swimming pool over the summer while my usual gets refurbished.
+* Reading books:
+	* The Regency Switch by my brilliant former colleague Helen Gaskell
+	* Margaret Calvert: Woman at Work
+ 
+***
+Last updated: 9 May 2026
+<details class="govuk-details">
+<summary>View previous nows</summary>
+
+## April 2026
 
 ### Work
 * Nadda, due to paternity leave this month.
@@ -19,9 +39,8 @@ This [now page](https://nownownow.com) explains what I'm currently focused on. F
 * Squeezing in short runs instead of tag rugby and swimming - maybe these will stick after my leave?
 * Finding time to read books!
 
-Last updated: 8 April 2026
-
-## Previously: March 2026
+***
+## March 2026
 
 ### Work
 * Working with groups of experts across content design, data engineering and data ethics on updates for the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/).
@@ -33,3 +52,6 @@ Last updated: 8 April 2026
 ### Personal
 * Playing tag rugby and trying to swim one or two times a week.
 * Preparing for Kid B's imminent arrival in April.
+</details>
+
+___

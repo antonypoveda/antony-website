@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weeknotes.md",
+                "file": "now.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "weeknotes"
+              "title": "now"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0a21d65ffcdac74e",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weeknotes.md",
+                "file": "now.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for weeknotes"
+              "title": "Backlinks for now"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weeknotes.md",
+                "file": "now.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of weeknotes"
+              "title": "Outline of now"
             }
           }
         ],
@@ -170,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,11 +186,11 @@
   },
   "active": "410803f730e5b571",
   "lastOpenFiles": [
+    "weeknotes.md",
     "weeknotes/04-05-2026.md",
     "weeknotes/14-02-2026.md",
     "links.md",
     "index.md",
-    "weeknotes.md",
     "contact.md",
     "now.md",
     "work.md",
