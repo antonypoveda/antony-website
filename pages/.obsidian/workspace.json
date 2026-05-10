@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "now.md",
+                "file": "weeknotes/10-05-2026.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "now"
+              "title": "10-05-2026"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0a21d65ffcdac74e",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "now.md",
+                "file": "weeknotes/10-05-2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for now"
+              "title": "Backlinks for 10-05-2026"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "now.md",
+                "file": "weeknotes/10-05-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of now"
+              "title": "Outline of 10-05-2026"
             }
           }
         ],
@@ -186,13 +185,14 @@
   },
   "active": "410803f730e5b571",
   "lastOpenFiles": [
-    "weeknotes.md",
     "weeknotes/04-05-2026.md",
+    "weeknotes/10-05-2026.md",
+    "now.md",
+    "weeknotes.md",
     "weeknotes/14-02-2026.md",
     "links.md",
     "index.md",
     "contact.md",
-    "now.md",
     "work.md",
     "weeknotes/05-04-2026.md",
     "weeknotes/07-02-2026.md",

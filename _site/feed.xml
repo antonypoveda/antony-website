@@ -2,8 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="false">
   <title>Feed</title>
   <link href="/feed.xml" rel="self"/>
-  <updated>2026-05-04T00:00:00Z</updated>
+  <updated>2026-05-10T00:00:00Z</updated>
   <id>false</id>
+  <entry>
+    <title>Stuffed - 5 to 8 May</title>
+    <link href="/weeknotes/10-05-2026/"/>
+    <updated>2026-05-10T00:00:00Z</updated>
+    <id>/weeknotes/10-05-2026/</id><content xml:lang="en" type="html">
+      <![CDATA[
+<h2 id="work" tabindex="-1" class="govuk-heading-l">Work</h2>
+<p class="govuk-body">Classic 3 day week for me, stuffed to the brim. Need to spot these much further in advance so I can set more realistic expectations for myself.</p>
+<p class="govuk-body">Nevertheless, valuable stuff achieved.</p>
+<p class="govuk-body">It was the first week of our ‘publishing sprint’ which goes to the end of the month. This meant sprint planning on Tuesday, and this meant wangling around with Jira, which the directorate switched to behind my back while I was on <a href="/weeknotes/04-05-2026" class="govuk-link">leave last month</a>. Rude.</p>
+<p class="govuk-body">We made good progress configuring boards and ‘issues’ and other things so they are useful (i.e. removing nearly everything in sight), and even planned some work. 7/10, would epic again.</p>
+<p class="govuk-body">(Sidenote: this week I got to write a justification for migrating some data to Jira that included “(the data) contains the design history and metadata, going back 10 years, for 350 content objects our team maintains to enable recruitment for 2 government professions”. Funny how these things build up. Also, please don’t delete it.)</p>
+<p class="govuk-body">Last week the team lost our wonderful developer, Daniella, to another team. This week we gained a new user researcher, who seems ace. Next week we need to find someone to help with development, probably from another team. This is either the ‘circle of life’ or our version of <a href="https://jpattonassociates.com/dual-track-development/" class="govuk-link">dual track development</a>.</p>
+<p class="govuk-body">Also on Tuesday I got enthusiastic approval from our deputy director to do something exciting. Now just need organisation approval… Watch this space.</p>
+<p class="govuk-body">I broke my ‘no-work Wednesday’ rule to drop in on the working group updating the skills for ‘<a href="https://ddat-capability-framework.service.gov.uk/role/content-designer" class="govuk-link">content designer</a>’ as they discussed which levels of the role required which proficiency of the skills. I then spent Thursday and Friday assessing the collated results from highlighter testing and making edits in response. We are finalising content next week. We are very nearly there.</p>
+<p class="govuk-body">As it turned out, Thursday PM was my Q4/end of year review. Good honest discussion was had, where I was maybe too honest in places, probably due to tiredness. Luckily lots of lovely things were said which made me very embarrassed. Here’s to a great ‘performance year 2026 to 2027’.</p>
+<p class="govuk-body">Finally on Friday, I got to hang out with a couple of other GDS content designers in a government office in actual Sheffield. This was great, let’s do it more. There are literally half-half-dozens of us!</p>
+<h2 id="other-things" tabindex="-1" class="govuk-heading-l">Other things</h2>
+<p class="govuk-body">Updated my <a href="/now" class="govuk-link">Now page</a> for May, including a way to show previous ‘nows’.</p>
+<p class="govuk-body">Continued making small ‘quality of experience’ updates to the old <a href="https://rising-ape.com" class="govuk-link">Rising Ape Collective website</a>, simplifying the menu and removing out of date ‘about’ information about people. Quite zen, feels like digital gardening.</p>
+<p class="govuk-body">I seem to have started a small book buying habit (7 over the last month) that runs directly contrary to my book <em>reading</em> habit (maybe 2 in a year). I’m hoping the sheer pressure of those unread words forces me to find the time and pick up the pace.</p>
+<h2 id="reading" tabindex="-1" class="govuk-heading-l">Reading</h2>
+<p class="govuk-body"><a href="https://lapope.com/2026/02/20/how-to-do-a-content-audit/" class="govuk-link">How to do a website content audit - Lauren Pope</a></p>
+<p class="govuk-body"><a href="https://longform.asmartbear.com/opposite-test/" class="govuk-link">The “Opposite Test” - Jason Cohen</a></p>
+<p class="govuk-body"><a href="https://www.hbs.edu/ris/Publication%20Files/11-091.pdf#:~:text=In%20this%20first%20experiment%2C%20we%20establish%20the,had%20assembled%20themselves%20to%20identical%20pre%2Dassembled%20products" class="govuk-link">The IKEA effect: When labour leads to love (PDF) - Michael I. Norton, Daniel Mochon, Dan Ariely</a></p>
+<p class="govuk-body"><a href="https://abscond.org/2026/02/07/progressive-data-enhancement" class="govuk-link">Progressive data enhancement - James Darling</a></p>
+<p class="govuk-body"><a href="https://www.publicstrategist.com/2010/11/there-is-no-such-thing-as-the-government/" class="govuk-link">There is no such thing as the government - Stefan Czerniawski</a></p>
+<p class="govuk-body"><a href="https://rebootdemocracy.ai/blog/computational-law-ai-government" class="govuk-link">A dozen interns on cocaine: What running one the longest-running civic tech project reveals about AI in government - Beth Simone Noveck</a></p>
+<p class="govuk-body"><a href="https://medium.com/@sarah-fisher/on-maintenance-de6787c637a0" class="govuk-link">On maintenance - Sarah Fisher</a></p>
+
+      ]]>
+    </content>
+  </entry>
   <entry>
     <title>Leave - April 2026</title>
     <link href="/weeknotes/04-05-2026/"/>
