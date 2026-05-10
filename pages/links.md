@@ -10,6 +10,23 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 ***
 
+## May 2026
+
+
+[How to do a website content audit - Lauren Pope](https://lapope.com/2026/02/20/how-to-do-a-content-audit/)
+
+[The “Opposite Test” - Jason Cohen](https://longform.asmartbear.com/opposite-test/)
+
+[The IKEA effect: When Labour leads to love (PDF) - Michael I. Norton, Daniel Mochon, Dan Ariely](https://www.hbs.edu/ris/Publication%20Files/11-091.pdf#:~:text=In%20this%20first%20experiment%2C%20we%20establish%20the,had%20assembled%20themselves%20to%20identical%20pre%2Dassembled%20products)
+
+[Progressive data enhancement - James Darling](https://abscond.org/2026/02/07/progressive-data-enhancement)
+
+[There is no such thing as the government - Stefan Czerniawski](https://www.publicstrategist.com/2010/11/there-is-no-such-thing-as-the-government/)
+
+[A dozen interns on cocaine: What running one the longest-running civic tech project reveals about AI in government - Beth Simone Noveck](https://rebootdemocracy.ai/blog/computational-law-ai-government)
+
+[On maintenance - Sarah Fisher](https://medium.com/@sarah-fisher/on-maintenance-de6787c637a0)
+
 ## April 2026
 
 
