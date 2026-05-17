@@ -26,6 +26,23 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 [A dozen interns on cocaine: What running one the longest-running civic tech project reveals about AI in government - Beth Simone Noveck](https://rebootdemocracy.ai/blog/computational-law-ai-government)
 
 [On maintenance - Sarah Fisher](https://medium.com/@sarah-fisher/on-maintenance-de6787c637a0)
+
+
+[Output isn’t design - Karri Saarinen](https://linear.app/now/output-isn-t-design)
+
+[The logic of conjecture: part 1 - Mike Gallagher](https://mikegallagher.org/posts/the-logic-of-conjecture-part-1/)
+
+[Service design is not user experience design at greater scale - Simon Morgan-Wilson](https://www.officeofwilson.com/service-design-is-not-user-experience-design-at-greater-scale/)
+
+[The appointments problem: why it's harder than it looks - NHS design histories](https://design-history-referrals-app-e8b8c2c8ff86.herokuapp.com/appointments-in-the-app/2026/03/1-appointments-in-the-app-intro/)
+
+[Lobster pots, complexity and starting small in the right way - Richard Pope](https://www.platformland.xyz/ways-of-doing/lobster-pots-complexity-and-starting-small-in-the-right-way/)
+
+[100 days is enough to prove a different way of governing - Transform Wales](https://transform.wales/blog/2026/100-days-is-enough-to-prove-a-different-way-of-governing/)
+
+[AI, open code and vulnerability risk in the public sector - GDS guidance](https://www.gov.uk/guidance/ai-open-code-and-vulnerability-risk-in-the-public-sector)
+
+[What this page knows since you arrived](https://sinceyouarrived.world/taken)
 ***
 
 ## April 2026
@@ -125,7 +142,7 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 [No more big bang launches - Abi Cox](https://abicox.medium.com/no-more-big-bang-launches-81f0ce5fdc91)
 
-[Narrative object modelling for designers- Heidi Adkisson](https://hpadkisson.medium.com/object-modeling-for-designers-an-introduction-7871bdcf8baf)
+[Narrative object modelling for designers - Heidi Adkisson](https://hpadkisson.medium.com/object-modeling-for-designers-an-introduction-7871bdcf8baf)
 
 [GOV.UK Prototype Kit: Data driven prototyping - Joe Lanman](https://joelanman.com/posts/govuk-prototype-kit-data/)
 
@@ -147,7 +164,7 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 [Practice notes on including citizens in the design process - Jack Strachan](https://civicworks.substack.com/p/practice-notes-on-including-citizens)
 
- [Tackling technical debt without stopping delivery - Rumman Amin](https://rummanamin.co.uk/tackling-technical-debt-without-stopping-delivery/)
+[Tackling technical debt without stopping delivery - Rumman Amin](https://rummanamin.co.uk/tackling-technical-debt-without-stopping-delivery/)
 
 [Britain Lost 14,000 Third Places. They Were Called Pubs. Is Your Local Next? - Lauren Leek](https://laurenleek.substack.com/p/britain-lost-14000-third-places-they)
 
@@ -159,7 +176,7 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 [The public deserves services that are useful, usable and safe- Sarah Winters and Matt Billingsley](https://contentdesign.london/blog/the-public-deserves-services-that-are-useful-usable-and-safe)
 
- [Wagtail CMS](https://wagtail.org/)
+[Wagtail CMS](https://wagtail.org/)
 
 [From outputs to outcomes: redefining public sector success - Transform Wales](https://transform.wales/blog/2026/from-outputs-to-outcomes-redefining-public-sector-success/)
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weeknotes/16-05-2026.md",
+                "file": "links.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "16-05-2026"
+              "title": "links"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weeknotes/16-05-2026.md",
+                "file": "links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 16-05-2026"
+              "title": "Backlinks for links"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weeknotes/16-05-2026.md",
+                "file": "links.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 16-05-2026"
+              "title": "Outline of links"
             }
           }
         ],
@@ -185,8 +185,8 @@
   },
   "active": "410803f730e5b571",
   "lastOpenFiles": [
-    "links.md",
     "weeknotes/16-05-2026.md",
+    "links.md",
     "weeknotes/10-05-2026.md",
     "weeknotes/04-05-2026.md",
     "now.md",
