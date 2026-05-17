@@ -26,6 +26,7 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 [A dozen interns on cocaine: What running one the longest-running civic tech project reveals about AI in government - Beth Simone Noveck](https://rebootdemocracy.ai/blog/computational-law-ai-government)
 
 [On maintenance - Sarah Fisher](https://medium.com/@sarah-fisher/on-maintenance-de6787c637a0)
+***
 
 ## April 2026
 
