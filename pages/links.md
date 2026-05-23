@@ -13,6 +13,18 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 ## May 2026
 
 
+[The logic of conjecture, part 2: Wicked problems at systems scale - Mike Gallagher](https://mikegallagher.org/posts/the-logic-of-conjecture-part-2/)
+
+[How digital prevention services fit with neighbourhood health - NHS design histories](https://design-history.prevention-services.nhs.uk/policy-and-communications/2026/05/how-digital-prevention-services-fit-with-neighbourhood-health/)
+
+[Re-shaping (public sector) user centred design for an AI assisted world - Leisa Reichelt](https://leisareichelt.substack.com/p/re-shaping-public-sector-user-centred)
+
+[The largest review of synthetic participants ever conducted found exactly what you'd expect. Synthetic users don't work - The Voice of User](https://www.thevoiceofuser.com/the-largest-review-of-synthetic-participants-ever-conducted-found-exactly-what-youd-expect-synthetic-users-dont-work/)
+
+[Why all content is fundamentally words - Andrew Tipp](https://medium.com/design-bootcamp/why-all-content-is-fundamentally-words-18aab585876b)
+
+[Navigating the unpredictability of everything - Jason Cohen](https://longform.asmartbear.com/predict-the-future/)
+
 [How to do a website content audit - Lauren Pope](https://lapope.com/2026/02/20/how-to-do-a-content-audit/)
 
 [The “Opposite Test” - Jason Cohen](https://longform.asmartbear.com/opposite-test/)
