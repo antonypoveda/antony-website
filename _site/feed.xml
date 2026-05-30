@@ -2,8 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="false">
   <title>Feed</title>
   <link href="/feed.xml" rel="self"/>
-  <updated>2026-05-23T00:00:00Z</updated>
+  <updated>2026-05-30T00:00:00Z</updated>
   <id>false</id>
+  <entry>
+    <title>Stuffed (again) - 26 to 29 May</title>
+    <link href="/weeknotes/30-05-2026/"/>
+    <updated>2026-05-30T00:00:00Z</updated>
+    <id>/weeknotes/30-05-2026/</id><content xml:lang="en" type="html">
+      <![CDATA[
+<p class="govuk-body">3-day week for me, felt like 6.</p>
+<h2 id="what-was-good" tabindex="-1" class="govuk-heading-l">What was good</h2>
+<p class="govuk-body">Lots, as we end May’s sprint.</p>
+<p class="govuk-body">We successfully published an update to the framework, including updating the user-centred design skills and adding them to the <a href="https://ddat-capability-framework.service.gov.uk/role/content-designer" class="govuk-link">content designer</a> role description.</p>
+<p class="govuk-body">This marks a few important things:</p>
+<ol class="govuk-list govuk-list--number">
+<li>All of the 50+ role descriptions in the framework have now been updated in some small or large way in the last 2 years.</li>
+<li>We’re still living up to our goal of <a href="https://cddo.blog.gov.uk/2024/09/18/how-were-continuously-improving-the-digital-and-data-capability-framework/" class="govuk-link">community-driven, continuous improvement</a>, iterating content based on our users’ experience and government’s needs.</li>
+<li>This time, I have directly shaped the career development of my own discipline - which is both exciting and nerve-wracking.</li>
+</ol>
+<p class="govuk-body">We’re getting an official blog post published soon that goes into more detail about this recent work, so I’ll leave it there for now. But I will need to take some time to reflect properly on it all.</p>
+<p class="govuk-body">This week, I also started thinking and talking about more robust, and public, ways to explaining what’s going on ‘behind the scenes’ of the framework. There’s a few factors coalescing that make it valuable to try something new.</p>
+<ol class="govuk-list govuk-list--number">
+<li>We spend a lot of effort keeping stakeholders and the community aware of what’s going on:
+<ul class="govuk-list govuk-list--bullet">
+<li>what work is in progress, and latest updates</li>
+<li>who is involved, and how to get involved</li>
+<li>explaining what’s changing and why</li>
+<li>giving access to the work itself</li>
+</ul>
+</li>
+<li>We’re moving off Google products imminently so a previous dashboard that did some this but used Data Studio has stopped being updated - and the wider point is that we should be aiming for something more timeless.</li>
+<li>We’re looking at moving everything to one of our two CMSes, the one with a simpler publishing workflow and better user management.</li>
+<li>There’s a refreshed commitment to working in the open around the place, so I think the leadership support is there.</li>
+</ol>
+<p class="govuk-body">In my head it’s something like the <a href="https://design.planning.data.gov.uk/project/planning-applications" class="govuk-link">Planning Data project pages</a> for each bit of work, mixed with occasional posts similar to <a href="https://alphagov.github.io/govuk-ai/" class="govuk-link">GOV.UK AI Studio</a>.</p>
+<p class="govuk-body">Other wins this week:</p>
+<ul class="govuk-list govuk-list--bullet">
+<li>managed two afternoons of (nearly) uninterrupted focus time in a 3-day week</li>
+<li>we squeezed in planning a new governance model for the other profession, next sprint we’ll make it happen</li>
+<li>our product manager ran a workshop on defining service outcomes, bringing in adjacent teams that depend on our products</li>
+<li>monthly governance processes like voting and meetings seem to be rolling nicely, despite high volume of proposals</li>
+</ul>
+<h2 id="what-was-challenging" tabindex="-1" class="govuk-heading-l">What was challenging</h2>
+<p class="govuk-body">Getting through the publishing process in good time, in a short week, where we also had our monthly governance meeting.</p>
+<p class="govuk-body">This was the first update for a long while without my wonderful contractor colleague who’d been able to focus on designing and publishing updates. For various reasons, I do not currently have that kind of focus available to me.</p>
+<p class="govuk-body">All the publishing work is currently on me, apart from some 2i support. Ideally I’d have got my new-ish colleague more involved in the preparation, but it’s all felt rushed since I came back from leave. I should try for for the next update.</p>
+<p class="govuk-body">Looking at the next month, I’ve set a lot plates spinning as part of the next update. In theory, they are mostly simple plates. In practice, it might not take much unexpected stuff to knock them down. And as we know the only thing you can expect is the unexpected.</p>
+<h2 id="what-s-next" tabindex="-1" class="govuk-heading-l">What’s next</h2>
+<p class="govuk-body">A 2-day week, due to family wedding up the the Lakes.</p>
+<h2 id="other-things" tabindex="-1" class="govuk-heading-l">Other things</h2>
+<p class="govuk-body">Finished two books!</p>
+<p class="govuk-body">1: <a href="https://www.hqstories.co.uk/books/the-regency-switch-helen-gaskell-9780008769574/" class="govuk-link">The Regency Switch by Helen Gaskell</a> - Very witty, very romancey. Really enjoyed reading something completely different to my usual genres.  I used to work with Helen, so the best bit was hearing her voice come through so strong, it was almost like an imaginary audio book. And <a href="https://www.waterstones.com/books/reviews/isbn/9780008769574#review-416229" class="govuk-link">Helen has even reviewed it herself</a>.</p>
+<p class="govuk-body">2:  <a href="https://scottberkun.com/why-design-is-hard/" class="govuk-link">Why Design is Hard by Scott Berkun and Bryan Zug</a> - Home truths, and practical advice, for any designer struggling with getting good work done in complex organisations. Chimed with lots of what I’ve learned over the last few years, so it’s great to have it all packaged up in portable paperback format to reflect back on/hold up to the camera in design community calls.</p>
+<h2 id="reading-and-listening" tabindex="-1" class="govuk-heading-l">Reading and listening</h2>
+<p class="govuk-body"><a href="https://gilest.org/notes/2026/open/" class="govuk-link">Working in the open ≠ comms - Giles Turnbull</a></p>
+<p class="govuk-body"><a href="https://www.noidea.dog/glue" class="govuk-link">Glue work - Tanya Reilly</a></p>
+<p class="govuk-body"><a href="https://medium.com/digitalsuffolk/7-things-you-may-not-know-about-web-accessibility-d802b1d19ea0" class="govuk-link">7 things you may not know about web accessibility - Andrew Tipp</a></p>
+<p class="govuk-body"><a href="https://alphagov.github.io/govuk-ai/using-agentic-ai-to-curate-tasks-for-users/" class="govuk-link">Using agentic AI to curate tasks for users - Pete Kowalczyk</a></p>
+<p class="govuk-body"><a href="https://www.linkedin.com/pulse/when-orgs-decide-without-thinking-ux-bears-cost-pavel-samsonov-9rfse" class="govuk-link">When orgs decide without thinking, UX bears the cost - Pavel Samsonov</a></p>
+<p class="govuk-body"><a href="https://good.services/badservicespodcast/episode005" class="govuk-link">Context of use - Bad Services podcast</a></p>
+
+      ]]>
+    </content>
+  </entry>
   <entry>
     <title>Document - 18 to 22 May</title>
     <link href="/weeknotes/23-05-2026/"/>

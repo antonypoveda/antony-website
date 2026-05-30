@@ -12,6 +12,17 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 ## May 2026
 
+[Working in the open ≠ comms - Giles Turnbull](https://gilest.org/notes/2026/open/)
+
+[Glue work - Tanya Reilly](https://www.noidea.dog/glue)
+
+[7 things you may not know about web accessibility - Andrew Tipp](https://medium.com/digitalsuffolk/7-things-you-may-not-know-about-web-accessibility-d802b1d19ea0)
+
+[Using agentic AI to curate tasks for users - Pete Kowalczyk](https://alphagov.github.io/govuk-ai/using-agentic-ai-to-curate-tasks-for-users/)
+
+[When orgs decide without thinking, UX bears the cost - Pavel Samsonov](https://www.linkedin.com/pulse/when-orgs-decide-without-thinking-ux-bears-cost-pavel-samsonov-9rfse)
+
+[Context of use - Bad Services podcast](https://good.services/badservicespodcast/episode005)
 
 [The logic of conjecture, part 2: Wicked problems at systems scale - Mike Gallagher](https://mikegallagher.org/posts/the-logic-of-conjecture-part-2/)
 
