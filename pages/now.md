@@ -5,25 +5,46 @@ includeInBreadcrumbs: false
 ---
 This [now page](https://nownownow.com) explains what I'm currently focused on. For more on what I've been up to, check my [weeknotes](/weeknotes).
 
-## Now: May 2026
+## Now: June 2026
+
+### Work
+* Working with groups of experts across business analysis, business relationship management, AI and data ethics, and agile delivery on draft changes for the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/), all currently scheduled for publication end of August.
+* Improving the transparency and robustness of information about the framework's development over time.
+* Exploring how to help users better understand the ways they can make use of the content, the skill descriptions in particular.
+
+### On the side
+* Nothing much, plenty going on elsewhere. Continued tinkering with this site, no doubt. For example, have recently made it possible for me to host [prototypes like this one](/prototype/cf-project-page) here.
+
+### Personal
+* Back to tag rugby after a 2 month hiatus.
+* Hopefully a booking a holiday.
+* Reading books:
+	* Thief of Time by Terry Pratchett
+
+***
+Last updated: 6 June 2026
+
+<details class="govuk-details"><summary><h2 class="govuk-heading-l">View previous nows</h2>
+</summary>
+
+## May 2026
+
 ### Work
 
 * Back to working with groups of experts across content design and data engineering on updates for the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/) to go live at the end of the month.
 
 ### On the side
-* Updating our old [Rising Ape Collective](https://rising-ape.com) website, so it acts as a record of what we achieved 'creating playful spaces for encountering research, tech and society' between 2015 and 2020.
+* Updating our old [Rising Ape Collective](https://rising-ape.com) website, so it acts as a record of what we achieved 'creating playful spaces for encountering research, tech and society' between 2025 and 2020.
 
 ### Personal
-* Having fun balancing new baby and work and other bits of life. Enjoying the evening walks with the carrier again.
+* Having fun balancing new baby and work and other bits of life. Enjoying the quiet evening walks with the carrier again.
 * Looking for a new swimming pool over the summer while my usual gets refurbished.
 * Reading books:
 	* The Regency Switch by my brilliant former colleague Helen Gaskell
 	* Margaret Calvert: Woman at Work
+	* Why Design is Hard by Scott Berkun and Bryan Zug
  
 ***
-Last updated: 9 May 2026
-<details class="govuk-details">
-<summary>View previous nows</summary>
 
 ## April 2026
 
@@ -38,7 +59,6 @@ Last updated: 9 May 2026
 * Enjoying baby mode again with Kid B, and 'learning to ride a bike' mode with Kid A.
 * Squeezing in short runs instead of tag rugby and swimming - maybe these will stick after my leave?
 * Finding time to read books!
-
 ***
 ## March 2026
 
@@ -54,4 +74,3 @@ Last updated: 9 May 2026
 * Preparing for Kid B's imminent arrival in April.
 </details>
 
-___
