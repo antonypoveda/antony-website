@@ -2,8 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="false">
   <title>Feed</title>
   <link href="/feed.xml" rel="self"/>
-  <updated>2026-05-30T00:00:00Z</updated>
+  <updated>2026-06-06T00:00:00Z</updated>
   <id>false</id>
+  <entry>
+    <title>Garden - 4 to 5 June</title>
+    <link href="/weeknotes/06-06-2026/"/>
+    <updated>2026-06-06T00:00:00Z</updated>
+    <id>/weeknotes/06-06-2026/</id><content xml:lang="en" type="html">
+      <![CDATA[
+<p class="govuk-body">Just two days of work this week following a family wedding up in the Lakes.</p>
+<h2 id="changing-the-garden" tabindex="-1" class="govuk-heading-l">Changing the garden</h2>
+<figure><img src="/assets/images/blog/garden.jpg" alt="Close up of small bright orange flowers on a sunny day. In the out of focus background are a couple of other flowers, pink and red."></figure>
+<p class="govuk-body">I’ve been shepherding a blog post, from the working group lead on the process to update <a href="https://ddat-capability-framework.service.gov.uk/role/content-designer" class="govuk-link">content designer</a>, through various approvals. Nearly there.</p>
+<p class="govuk-body">There’s a line in there about how updating the framework’s content is ‘not one person’s job’. It requires a dedicated group to get involved and work out how best to change it.</p>
+<p class="govuk-body">Sometimes at work I speak about how <a href="https://cddo.blog.gov.uk/2024/09/18/how-were-continuously-improving-the-digital-and-data-capability-framework/" class="govuk-link">continuously improving</a> the framework’s content is like community gardening. Tending, observing, pruning, caring for something to keep it fresh over time. But what <em>kind</em> of garden are we looking after?</p>
+<p class="govuk-body">When the team started the work it’s fair to say we had something like a once grand landscape garden of a country house, starting to grow wild or withering in places. People came to see it, but they noticed. Maybe people thought ‘I can do better than this’. Maybe less people came.</p>
+<p class="govuk-body">So we brought in the community. We’ve said to groups ‘You can dig in, plant new things, cut back what’s no longer needed. We’ll help, provide tools, and manage the overall landscaping, but which plants you use, and how you arrange them, is up to you.’</p>
+<p class="govuk-body">And now the garden is alive, changing, with groups busy all over the place, looking after their own patch.</p>
+<p class="govuk-body">And maybe that’s good, it’s valuable, it’s enough? But there’s part of me nagging ‘Okay, more people come to the garden, but are they getting enough of what they need? Or do some still leave thinking “that’s nice for you in your country house, but I’m still worried about sustaining my own little patch”’.</p>
+<p class="govuk-body">So what other kinds of garden are there?</p>
+<p class="govuk-body">Certainly we don’t want some sort of Lancelot ‘Capability’ Brown (geddit?) to come in and impose a singular vision of the perfect Arcardian landscape. Still useful for inspiration perhaps, but totally physically disconnected from the gardens of Jo Public Servant. And again, risking neglect just a few years down the line unless heavily resourced.</p>
+<p class="govuk-body">So instead maybe we can <em>move</em> the garden, from the country estate into the neighbourhood itself. And make it a <em>kitchen</em> garden, where people can come and plant for their own nourishment, not just aesthetics. Where others can easily take what they need, for food or as seeds for their own patches. A self-sustaining place, where decisions about what is grown is totally down to the people using the garden, and where people contribute their own fruit and veg from home, inspiring others. Real food, for thought.</p>
+<p class="govuk-body">Of course, there’s potential constraints and risks if we went for something like an ‘open contribution framework’. But I’m not sure the current approach is any less risky. There’s certainly appetite around the place for ‘step changes, new paradigms’ etc… I’ll try out the metaphor and see if it helps people to think differently about ways to achieve our goals.</p>
+<p class="govuk-body">It might not. I’ve also often described the framework content as ‘tools to help make better decisions about skills’, so maybe a ‘community tool shed’ may fit better? Let’s see.</p>
+<h2 id="what-else" tabindex="-1" class="govuk-heading-l">What else?</h2>
+<ul class="govuk-list govuk-list--bullet">
+<li>Spent time updating various bits of <a href="/weeknotes/23-05-2026" class="govuk-link">documentation</a> following the update last week. This included the first time updating our content inventory after its migration to Jira. Slow, slow, slow. Time to find something else. How about our CMS?</li>
+<li>Gained lots of traction around the idea for creating ‘project pages’ - sharing the <a href="/prototype/cf-project-page" class="govuk-link">very simple prototype</a> helped with learning if this is viable, as did communicating the idea through the <a href="/weeknotes/16-05-2026" class="govuk-link">structure of a hypothesis</a> (although I just frame it as ‘here’s the full idea:’).</li>
+<li>Posed the idea of a ‘firebreak’ week for the team at the end of this month to give us space between sprints to explore new ideas or address some design and tech debt. This has gone down very well, so hopefully we can make it happen.</li>
+<li>Wading through the swampy process of getting my French passport. I don’t want to talk about it much, except to say the value of my profession and the overall concept of service design has never been more clearly highlighted.</li>
+<li>I’ve updated my <a href="/now" class="govuk-link">Now</a> page for June.</li>
+</ul>
+<h2 id="reading" tabindex="-1" class="govuk-heading-l">Reading</h2>
+<p class="govuk-body"><a href="https://mojdigital.blog.gov.uk/2026/06/04/could-you-find-it-if-it-already-existed-making-reuse-easier-across-government-using-ai-search/" class="govuk-link">Could you find it if it already existed? Making reuse easier across government using AI search  - Emma Nicol</a> - featuring a shoutout to my '<a href="/weeknotes/14-02-2026" class="govuk-link">Great Design System Bake-off’ poster!</a>, ha!</p>
+<p class="govuk-body"><a href="https://www.linkedin.com/pulse/when-orgs-decide-without-thinking-ux-bears-cost-pavel-samsonov-9rfse" class="govuk-link">When orgs decide without thinking, UX bears the cost - Pavel Samsonov</a></p>
+<p class="govuk-body"><a href="https://annaecook.com/writing/2026/designing-with-mustard" class="govuk-link">Designing with mustard - Anne E Cook</a></p>
+<p class="govuk-body"><a href="https://enableamazing.com/foundations/concepts" class="govuk-link">Foundational concepts in systems thinking</a></p>
+<p class="govuk-body"><a href="https://blog.quoteunquoteapps.com/296-strong-feelings-few-words/" class="govuk-link">Strong Feelings. Few Words - Chris Csont</a></p>
+<p class="govuk-body"><a href="https://dfedigital.blog.gov.uk/2026/06/05/move-fast-then-fix-things-what-we-learned-building-register-early-career-teachers/" class="govuk-link">Move fast, then fix things – what we learned building Register early career teachers - Ben Belward</a> - really great report from the trenches of service transformation.</p>
+
+      ]]>
+    </content>
+  </entry>
   <entry>
     <title>Stuffed (again) - 26 to 29 May</title>
     <link href="/weeknotes/30-05-2026/"/>
