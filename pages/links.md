@@ -12,17 +12,17 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 ## May 2026
 
-[Working in the open ≠ comms - Giles Turnbull](https://gilest.org/notes/2026/open/)
-
-[Glue work - Tanya Reilly](https://www.noidea.dog/glue)
-
-[7 things you may not know about web accessibility - Andrew Tipp](https://medium.com/digitalsuffolk/7-things-you-may-not-know-about-web-accessibility-d802b1d19ea0)
-
-[Using agentic AI to curate tasks for users - Pete Kowalczyk](https://alphagov.github.io/govuk-ai/using-agentic-ai-to-curate-tasks-for-users/)
+[Could you find it if it already existed? Making reuse easier across government using AI search  - Emma Nicol](https://mojdigital.blog.gov.uk/2026/06/04/could-you-find-it-if-it-already-existed-making-reuse-easier-across-government-using-ai-search/)
 
 [When orgs decide without thinking, UX bears the cost - Pavel Samsonov](https://www.linkedin.com/pulse/when-orgs-decide-without-thinking-ux-bears-cost-pavel-samsonov-9rfse)
 
-[Context of use - Bad Services podcast](https://good.services/badservicespodcast/episode005)
+[Designing with mustard - Anne E Cook](https://annaecook.com/writing/2026/designing-with-mustard)
+
+[Foundational concepts in systems thinking](https://enableamazing.com/foundations/concepts)
+
+[Strong Feelings. Few Words - Chris Csont](https://blog.quoteunquoteapps.com/296-strong-feelings-few-words/)
+
+[Move fast, then fix things – what we learned building Register early career teachers - Ben Belward](https://dfedigital.blog.gov.uk/2026/06/05/move-fast-then-fix-things-what-we-learned-building-register-early-career-teachers/)
 
 [The logic of conjecture, part 2: Wicked problems at systems scale - Mike Gallagher](https://mikegallagher.org/posts/the-logic-of-conjecture-part-2/)
 
@@ -50,7 +50,6 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 [On maintenance - Sarah Fisher](https://medium.com/@sarah-fisher/on-maintenance-de6787c637a0)
 
-
 [Output isn’t design - Karri Saarinen](https://linear.app/now/output-isn-t-design)
 
 [The logic of conjecture: part 1 - Mike Gallagher](https://mikegallagher.org/posts/the-logic-of-conjecture-part-1/)
@@ -73,7 +72,7 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 [AI Prototyping: Harder. Worser. Faster. Wronger. - Anna E Cook](https://annaecook.com/writing/2026/ai-prototyping-harder-worser-faster-wronger)
 
-[What being self-employed-content-really-looks-like - Lauren Pope](https://lapope.com/2026/04/06/what-being-self-employed-in-content-really-looks-like/)
+[What being self-employed in content really looks like - Lauren Pope](https://lapope.com/2026/04/06/what-being-self-employed-in-content-really-looks-like/)
 
 [Because coordination is expensive - Lorin Hochstein](https://surfingcomplexity.blog/2026/01/24/because-coordination-is-expensive/)
 
