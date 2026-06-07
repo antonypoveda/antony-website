@@ -5,17 +5,21 @@ includeInBreadcrumbs: false
 ---
 
 ## Government Digital Service (GDS), 2025 to now
-Designing frameworks, standards and guidance for teams building public services. My main focus is the content design of the Government Digital and Data Profession Capability Framework.
 
-As an example, here's a write up of work I led to [update the skill descriptions for user-centered design roles](https://designnotes.blog.gov.uk/2024/12/03/updating-design-skills-in-the-government-digital-and-data-capability-framework/).
+Designing frameworks, standards and guidance for teams building public services. My main focus is the content design of the Government Digital and Data Profession Framework.
+
+As an example, here's a write up of work I led to [update the descriptions of skills for user-centered design roles](https://designnotes.blog.gov.uk/2024/12/03/updating-design-skills-in-the-government-digital-and-data-capability-framework/).
 
 You can also check [what I'm working on now](/now) and my latest [weeknotes](/weeknotes).
 
 ## Central Digital and Data Office (CDDO), 2023 to 2025
+
 Same thing as above, before the organisation was brought into GDS in January 2025.
 
 ## UK Research and Innovation (UKRI), 2020 to 2023
-Helping to establish the content design discipline in the web team at the public funder for research.
+
+Establishing the content design discipline in the web team at the public funder for research. Check out [ukri.org](ukri.org).
 
 ## Mangorolla CIC, 2015 to 2020
-Running an online platform that connected school students with people in jobs like 'scientist', 'engineer', 'healthcare' and 'astronaut'.
+
+Running an online platform that connected school students with people in jobs like 'scientist', 'engineer', 'healthcare' and 'astronaut'. Check out [imaproject.uk](https://imaproject.uk/).
