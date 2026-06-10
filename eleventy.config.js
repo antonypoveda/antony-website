@@ -34,7 +34,7 @@ export default function(eleventyConfig) {
       titleSuffix: 'Antony Poveda',
       header: {
         logotype: {
-          text: 'Antony Poveda'
+          text: 'Antony Poveda'        
                 },
          },
       icons:{
