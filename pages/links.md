@@ -9,7 +9,36 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 [[toc]]
 
 ***
+## June 2026
 
+[No, artificial intelligence is not conscious - Ted Chiang](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/)
+
+[Re‑imagining a Digital Academy for today’s challenges - Stephen Mounsey](https://medium.com/@mounseystephen41/re-imagining-a-digital-academy-for-todays-challenges-e74002a4a1f3)
+
+[Launching GOV.UK's new content and publishing guidance - Adam Wainwright](https://insidegovuk.blog.gov.uk/2026/06/08/launching-gov-uks-new-content-and-publishing-guidance/)
+
+[Forms don't love you back - Rachel Coldicutt](https://buttondown.com/justenoughinternet/archive/forms-dont-love-you-back/)
+
+[The golden thread still holds - Rumman Amin](https://rummanamin.co.uk/the-golden-thread-still-holds/)
+
+
+[Taking the power back, one Sheffield street at a time - Sam Waltby](https://nowthenmagazine.com/articles/taking-the-power-back-one-sheffield-street-at-a-time-green-streets-club)
+
+[Operating Patterns for a more dynamic NHS - James Plunkett and Richard Pope](https://operatingpatterns.org/paper/html/)
+
+[This is content systems design - Joe Phillips](https://writing.examinedweb.com/p/this-is-content-systems-design)
+
+[Extract evaluation - i.AI](https://ai.gov.uk/evaluations/extract-evaluation/)
+
+[The Broad Bean - Steve Messer](https://visitmy.website/2026/06/15/the-broad-bean/)
+
+[Launching a new Co-design Toolkit for Early Years Services - Policy Lab blog](https://openpolicy.blog.gov.uk/2026/01/06/launching-a-new-co-design-toolkit-for-early-years-services/)
+
+[Ask your Doctor About - 99% Invisible](https://99percentinvisible.org/episode/667-ask-your-doctor-about/)
+
+[Fermi ROI: Fixing the ROI rubric - Jason Cohen](https://longform.asmartbear.com/roi-rubric/) 
+
+***
 ## May 2026
 
 [Could you find it if it already existed? Making reuse easier across government using AI search  - Emma Nicol](https://mojdigital.blog.gov.uk/2026/06/04/could-you-find-it-if-it-already-existed-making-reuse-easier-across-government-using-ai-search/)
