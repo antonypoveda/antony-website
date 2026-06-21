@@ -34,7 +34,7 @@ Last updated: 6 June 2026
 * Back to working with groups of experts across content design and data engineering on updates for the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/) to go live at the end of the month.
 
 ### On the side
-* Updating our old [Rising Ape Collective](https://rising-ape.com) website, so it acts as a record of what we achieved 'creating playful spaces for encountering research, tech and society' between 2025 and 2020.
+* Updating our old [Rising Ape Collective](https://rising-ape.com) website, so it acts as a record of what we achieved 'creating playful spaces for encountering research, tech and society' between 2015 and 2020.
 
 ### Personal
 * Having fun balancing new baby and work and other bits of life. Enjoying the quiet evening walks with the carrier again.
