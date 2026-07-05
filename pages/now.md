@@ -20,9 +20,10 @@ This [now page](https://nownownow.com) explains what I'm currently focused on. F
 * Hopefully a booking a holiday.
 * Reading books:
 	* Thief of Time by Terry Pratchett
+	* Bad Services by Lou Downe
 
 ***
-Last updated: 6 June 2026
+Last updated: 27 June 2026
 
 <details class="govuk-details"><summary><h2 class="govuk-heading-l">View previous nows</h2>
 </summary>
