@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="false">
   <title>Feed</title>
   <link href="/feed.xml" rel="self"/>
-  <updated>2026-06-27T00:00:00Z</updated>
+  <updated>2026-07-08T00:00:00Z</updated>
   <id>false</id>
+  <entry>
+    <title>Showroom - 29 June to 3 July</title>
+    <link href="/weeknotes/08-07-2026/"/>
+    <updated>2026-07-08T00:00:00Z</updated>
+    <id>/weeknotes/08-07-2026/</id><content xml:lang="en" type="html">
+      <![CDATA[
+<h2 id="work" tabindex="-1" class="govuk-heading-l">Work</h2>
+<p class="govuk-body">Supported fellow content designer as they work on their ‘firebreak’ project between sprints. Starting from the prompt of <strong>interaction</strong>, we’ve ended up exploring what is kind of the step before this: how might we better help users <a href="https://www.ashmann.co/what-ikea-stores-teach-us-about-framing-value/" class="govuk-link">grasp the value</a> and possibilities of using framework content in their particular situation?</p>
+<p class="govuk-body">We’ve constructed a scenario as a kind of ‘showroom’, presenting skills and roles useful for a real life situation, <a href="https://mhclgdigital.blog.gov.uk/2025/10/02/designing-a-user-centred-intranet-to-help-our-staff-work-more-effectively/" class="govuk-link">building a user-centred intranet </a>.</p>
+<p class="govuk-body">Next is testing this idea as roughly as possible with some users. Of all our expected use cases, we are least certain about how the framework is used when planning teams, so that’s what we’ll be looking at in particular.</p>
+<p class="govuk-body">In practice, given time constraints,  we might not get much further into learning anything new, But doing this in-depth work to support another designer think through ideas has been really nice. I think it’s building the design skills of the team that should pay off later.</p>
+<p class="govuk-body">Elsewhere (and most of my work is elsewhere), our new product manager has started and seems great. Current PM actually has a couple of weeks to handover with them which I’m not sure I’ve ever seen before in this team. Luxury!</p>
+<p class="govuk-body">I gave some feedback on the draft long term roadmap they’ve been building with input from across the unit. It’s looking really good overall as long as we can focus on the outcomes, rather than proposed solutions.</p>
+<h2 id="other-things" tabindex="-1" class="govuk-heading-l">Other things</h2>
+<figure><img src="/assets/images/blog/magnaplan.jpg" alt="Schematics showing part of the Templeborough steelworks in Rotherham. Marked out within the main building in faint grey rectangles are things labelled 'alloy hoppers' and 'No.2 Furnace', and the main building is sandwiched by waves of lines marking train tracks."></figure>
+<p class="govuk-body">Reading and nearly finishing <a href="https://good.services/badservicesbook" class="govuk-link">Bad Services</a>. It makes you angry. It makes you reflect on your own decisions. Have I let easier shorter term wins guide us over long-term strategic goals? Yes, many times - but also, who hasn’t? We can only do better for the future.</p>
+<p class="govuk-body">On Wednesday, took the family to a <s>huge steelworks shed</s> <a href="https://www.visitmagna.co.uk/" class="govuk-link">Magna</a>. I haven’t been for a couple of years, and Kid A absolutely loves it.</p>
+<p class="govuk-body">Aside from fun exhibits, I really like how you can find things throughout from its working past, down to the signs and schematics. Worth a visit if you’re ever around South Yorkshire.</p>
+<h2 id="reading" tabindex="-1" class="govuk-heading-l">Reading</h2>
+<p class="govuk-body"><a href="https://contentdesign.london/blog/ai-and-search-what-content-designers-need-to-know" class="govuk-link">AI and search: what content designers need to know - Rich Prowse</a></p>
+<p class="govuk-body"><a href="https://www.fastcompany.com/91563306/are-designers-to-blame-for-our-tech-dystopia-its-complicated" class="govuk-link">Are designers to blame for our tech dystopia - Robert Fabricant</a></p>
+<p class="govuk-body"><a href="https://medium.com/@colinwbaird/how-to-create-design-documentation-f7d64d74b3d5" class="govuk-link">How to create design documentation - Colin Baird</a></p>
+<p class="govuk-body"><a href="https://gds.blog.gov.uk/2026/07/02/evolving-the-service-standard-for-the-future-of-public-services/" class="govuk-link">Evolving the Service Standard for the future of public services - Emily Ball</a></p>
+<p class="govuk-body"><a href="https://cari.institute/aesthetics" class="govuk-link">Aesthetic categories - Consumer Aesthetics Research Institute</a></p>
+
+      ]]>
+    </content>
+  </entry>
   <entry>
     <title>Light - 22 to 26 June</title>
     <link href="/weeknotes/27-06-2026/"/>
