@@ -5,7 +5,32 @@ includeInBreadcrumbs: false
 ---
 This [now page](https://nownownow.com) explains what I'm currently focused on. For more on what I've been up to, check my [weeknotes](/weeknotes).
 
-## Now: June 2026
+## Now: July 2026
+
+### Work
+* Continued work with groups of experts across business analysis, business relationship management, AI and data ethics, and agile delivery on draft changes for the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/), all currently scheduled for publication end of August.
+* Kicking off work with information architects.
+* Improving the transparency and robustness of information about the framework's development over time.
+* Helping to shape a new roadmap for the product as a whole.
+* Start writing my session for [Service Design in Government](https://sdingov.net/programme/power-profession-what-happens-when-users-can-vote-change-your-product).
+
+### On the side
+* Setting up the next Sheffield X-Gov meetup in August.
+
+### Personal
+* Holiday in Spain at the end of July.
+* Trips to the Lakes to see family.
+* Weekly swim, weekly tag rugby, occasional running.
+* Reading books:
+	* Stuck? Diagrams Help by Abby Covert
+
+***
+Last updated: 12 July 2026
+
+<details class="govuk-details"><summary><h2 class="govuk-heading-l">View previous nows</h2>
+</summary>
+
+## June 2026
 
 ### Work
 * Working with groups of experts across business analysis, business relationship management, AI and data ethics, and agile delivery on draft changes for the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/), all currently scheduled for publication end of August.
@@ -23,10 +48,6 @@ This [now page](https://nownownow.com) explains what I'm currently focused on. F
 	* Bad Services by Lou Downe
 
 ***
-Last updated: 27 June 2026
-
-<details class="govuk-details"><summary><h2 class="govuk-heading-l">View previous nows</h2>
-</summary>
 
 ## May 2026
 
@@ -35,7 +56,7 @@ Last updated: 27 June 2026
 * Back to working with groups of experts across content design and data engineering on updates for the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/) to go live at the end of the month.
 
 ### On the side
-* Updating our old [Rising Ape Collective](https://rising-ape.com) website, so it acts as a record of what we achieved 'creating playful spaces for encountering research, tech and society' between 2015 and 2020.
+* Updating our old [Rising Ape Collective](https://rising-ape.com) website, so it acts as a record of what we achieved 'creating playful spaces for encountering research, tech and society' between 2025 and 2020.
 
 ### Personal
 * Having fun balancing new baby and work and other bits of life. Enjoying the quiet evening walks with the carrier again.
@@ -74,4 +95,3 @@ Last updated: 27 June 2026
 * Playing tag rugby and trying to swim one or two times a week.
 * Preparing for Kid B's imminent arrival in April.
 </details>
-
