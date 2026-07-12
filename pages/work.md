@@ -18,8 +18,8 @@ Same thing as above, before the organisation was brought into GDS in January 202
 
 ## UK Research and Innovation (UKRI), 2020 to 2023
 
-Establishing the content design discipline in the web team at the public funder for research. Check out [ukri.org](ukri.org).
+Establishing the content design discipline in the web team at the public funder for research. Check out [ukri.org](https://ukri.org).
 
 ## Mangorolla CIC, 2015 to 2020
 
-Running an online platform that connected school students with people in jobs like 'scientist', 'engineer', 'healthcare' and 'astronaut'. Check out [imaproject.uk](https://imaproject.uk/).
+Running an online platform that connects school students with people in jobs like 'scientist', 'engineer', 'healthcare' and 'astronaut'. Check out [imaproject.uk](https://imaproject.uk/).
