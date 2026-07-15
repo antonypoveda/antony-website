@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "now.md",
+                "file": "links.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "now"
+              "title": "links"
             }
           }
         ],
@@ -200,8 +200,8 @@
   },
   "active": "4092c1d70456081c",
   "lastOpenFiles": [
-    "work.md",
     "now.md",
+    "work.md",
     "contact.md",
     "weeknotes/08-07-2026.md",
     "weeknotes/27-06-2026.md",

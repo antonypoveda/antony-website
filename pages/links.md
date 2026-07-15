@@ -38,6 +38,30 @@ Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 [Fermi ROI: Fixing the ROI rubric - Jason Cohen](https://longform.asmartbear.com/roi-rubric/) 
 
+[Bad Services Corp website](https://good.services/bad-services-corporation).
+
+[Brutalist Websites](https://brutalistwebsites.com/)
+
+[Systems thinking for Civil Servants](https://www.gov.uk/government/publications/systems-thinking-for-civil-servants/introduction)
+
+[What Ikea stores could teach us about framing value - Ash Mann](https://www.ashmann.co/what-ikea-stores-teach-us-about-framing-value/)
+
+[Designing services for people on low incomes - Ray Newman](https://www.linkedin.com/pulse/designing-services-people-low-incomes-ray-newman-lwy7e/)
+
+[Wifärt gallery](https://wifartgallery.com/)
+
+[An abundance of what? - Dan Hill](https://medium.com/dark-matter-and-trojan-horses/an-abundance-of-what-e767ba7aa23d)
+
+[AI and search: what content designers need to know - Rich Prowse](https://contentdesign.london/blog/ai-and-search-what-content-designers-need-to-know)
+
+[Are designers to blame for our tech dystopia - Robert Fabricant](https://www.fastcompany.com/91563306/are-designers-to-blame-for-our-tech-dystopia-its-complicated)
+
+[How to create design documentation - Colin Baird](https://medium.com/@colinwbaird/how-to-create-design-documentation-f7d64d74b3d5)
+
+[Evolving the Service Standard for the future of public services - Emily Ball](https://gds.blog.gov.uk/2026/07/02/evolving-the-service-standard-for-the-future-of-public-services/)
+
+[Aesthetic categories - Consumer Aesthetics Research Institute](https://cari.institute/aesthetics)
+
 ***
 ## May 2026
 
