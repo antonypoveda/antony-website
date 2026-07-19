@@ -2,8 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="false">
   <title>Feed</title>
   <link href="/feed.xml" rel="self"/>
-  <updated>2026-07-08T00:00:00Z</updated>
+  <updated>2026-07-19T00:00:00Z</updated>
   <id>false</id>
+  <entry>
+    <title>Half - 6 to 17 July</title>
+    <link href="/weeknotes/18-07-2026/"/>
+    <updated>2026-07-19T00:00:00Z</updated>
+    <id>/weeknotes/18-07-2026/</id><content xml:lang="en" type="html">
+      <![CDATA[
+<p class="govuk-body">Busy times ahead of holiday for the rest of July from next week, so here’s one note for the month.</p>
+<h2 id="what-was-good" tabindex="-1" class="govuk-heading-l">What was good</h2>
+<p class="govuk-body">Because I’m only around for half of our 4-week sprint cycle, I was able to be quite focused during planning last Tuesday.</p>
+<p class="govuk-body">I had 2 main goals:</p>
+<ol class="govuk-list govuk-list--number">
+<li>Get draft content for 4 changes scheduled for August out to their respective communities for feedback.</li>
+<li>Publish the first public versions of content outlining upcoming changes and proposals for changes.</li>
+</ol>
+<p class="govuk-body">Happy to say that goal 1 was achieved. Despite some tricky questions and decisions in each bit of work, thanks to engaged subject experts in each group we got there just in time.</p>
+<p class="govuk-body">This work is always ‘side of desk’ for the experts I get to work with. So I really appreciate the time and energy people put in to getting involved and <a href="/weeknotes/06-06-2026" class="govuk-link">tending their part of the garden</a>.</p>
+<p class="govuk-body">Goal 2 was also achieved, sort of. This week I took time to test prototype versions of 3 new page types with a couple of users (a head of profession and a capability lead).</p>
+<p class="govuk-body">As usual this rapidly helped spot issues in understanding and structure. I also decided to hold off publishing the ‘upcoming proposals’ content so I could find a better way of framing the different stages they go through.</p>
+<p class="govuk-body">The <a href="https://ddat-capability-framework.service.gov.uk/projects" class="govuk-link">‘upcoming changes’ page</a> is now live, along with 3 more detailed ‘project pages’, such as <a href="https://ddat-capability-framework.service.gov.uk/project-information-architect-new-role" class="govuk-link">this one for the new role of information architect</a>.</p>
+<p class="govuk-body">This marks the second stage of showing people <a href="/weeknotes/30-05-2026/" class="govuk-link">what’s going on under the surface</a> using the website itself - just under 2 months since we first started looking at it seriously. I expect the proposals content can be up in early August and then I need to run some proper training with colleagues to fold it in to our team processes.</p>
+<p class="govuk-body">At the start of this week, the team did a show and tell to the wider unit on some of the firebreak projects, such as <a href="/weeknotes/08-07-2026" class="govuk-link">designing scenarios</a>. While I helped plan the session, I intentionally held back from presenting. Although my goal this year has been to ‘get myself out there’, I’ve done plenty now and I need to let newer members of the team get out there too. Their stuff was really well received, and I think helped people get a better understanding of how we work.</p>
+<p class="govuk-body">We also had some interesting feedback at the end from a new starter in another team (paraphrasing: you’ve only shown us work in progress - what did you want us to take away from this?). This reminded us it’s never wasted time to clearly frame the purpose of a show and tell, up front and at the end.</p>
+<h2 id="what-was-challenging" tabindex="-1" class="govuk-heading-l">What was challenging</h2>
+<p class="govuk-body">Fitting in everything, and leaving work in a good place, before going on hols.</p>
+<p class="govuk-body">For example, there was lots of HR-related stuff over this period (onboarding, reviews, objectives, recruitment, tricky conversations), and it has felt a bit like finding 10 mins between calls to do the ‘actual work’ described above. I even broke my no-work Wednesdays for a couple of hours to stay afloat.</p>
+<p class="govuk-body">Of course helping the team work is part of the work. But it is tough some weeks to get the proper balance. Too much <a href="https://www.noidea.dog/glue" class="govuk-link">glue work</a> makes Tony a dull boy, who doesn’t move design work on enough.</p>
+<p class="govuk-body">In one of said tricky conversations I was at least able to practise my diagram learning gleaned from <a href="https://abbycovert.com/stuck/" class="govuk-link">Abby Covert’s fantastic book</a>. I was genuinely surprised at how  helpful “shall we try making a diagram of all the things?” was for moving the conversation to a more positive place. I’ll be on the look out for more non-obvious chances to crack out the ol’ shapes and lines.</p>
+<p class="govuk-body">As I finish these notes up, there seems to be some pretty seismic organisational news imminent for GDS. I think I’ll have to take the <a href="https://youtu.be/dpCe36t6oC4?si=XJ2gofDV-8ChewhZ&amp;t=54" class="govuk-link">‘Winchester’ approach</a>, have a few nice cold Spanish pints, and wait for all this to blow over.</p>
+<h2 id="other-things" tabindex="-1" class="govuk-heading-l">Other things</h2>
+<p class="govuk-body">Caught up with my fellow X-Gov Sheffield schemers to plan the next breakfast meetup ‘for some point in August’ at a new venue. Look out for a sign up form near you soon.</p>
+<p class="govuk-body">Updated my <a href="/now" class="govuk-link">Now page</a> for July, and the <a href="/links" class="govuk-link">Links page</a> for June.</p>
+<p class="govuk-body">Squeezed in a tiny trip up to the Lakes to see family and check out the local housing market. Hopes, fears, dreams?</p>
+<p class="govuk-body">Kid A has had both an end of nursery party and two school transition days ahead of September. Unbelievable.</p>
+<p class="govuk-body">And I finally got to watch an World Cup match in a social, pub-like setting. Unfortunately, it was that England semi-final. At least now I can get back to worrying about real football issues, like who will be Leeds’ third choice keeper come first day of the season.</p>
+<h2 id="reading" tabindex="-1" class="govuk-heading-l">Reading</h2>
+<p class="govuk-body"><a href="https://abbycovert.com/stuck/" class="govuk-link">Stuck? Diagrams help by Abby Covert</a></p>
+<p class="govuk-body"><a href="https://medium.com/@jamestplunkett/how-to-grow-tomorrows-2cbd52b9fd5e" class="govuk-link">How to grow tomorrows - James Plunkett</a></p>
+<p class="govuk-body"><a href="https://cathydutton.co.uk/posts/the-portal-trap/" class="govuk-link">The portal trap - Cathy Dutton</a></p>
+<p class="govuk-body"><a href="https://amyhupe.co.uk/articles/design-system-strategies/" class="govuk-link">How to build a design system strategy you’ll actually deliver - Amy Hupe</a></p>
+<p class="govuk-body"><a href="https://www.jamiearnold.com/blog/2017/1/25/plans-vs-roadmaps" class="govuk-link">Plans vs roadmaps - Jamie Arnold</a></p>
+<p class="govuk-body"><a href="https://www.linkedin.com/pulse/keep-your-designs-low-fidelity-until-thinking-done-ray-newman-uqm0e" class="govuk-link">Keep your designs low fidelity until thinking done -  Ray Newman</a></p>
+<p class="govuk-body"><a href="https://digitalbydefault.com/2026/07/18/how-public-service-product-people-work/" class="govuk-link">How [public service product] people Work - Matt Jukes</a></p>
+
+      ]]>
+    </content>
+  </entry>
   <entry>
     <title>Showroom - 29 June to 3 July</title>
     <link href="/weeknotes/08-07-2026/"/>

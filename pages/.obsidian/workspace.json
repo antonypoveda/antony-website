@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "links.md",
+                "file": "weeknotes/18-07-2026.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "links"
+              "title": "18-07-2026"
             }
           }
         ],
@@ -200,15 +200,16 @@
   },
   "active": "4092c1d70456081c",
   "lastOpenFiles": [
+    "weeknotes/06-06-2026.md",
+    "weeknotes/18-07-2026.md",
+    "links.md",
+    "weeknotes/08-07-2026.md",
+    "weeknotes/27-06-2026.md",
+    "weeknotes/20-06-2026.md",
+    "weeknotes/13-06-2026.md",
     "now.md",
     "work.md",
     "contact.md",
-    "weeknotes/08-07-2026.md",
-    "weeknotes/27-06-2026.md",
-    "links.md",
-    "weeknotes/13-06-2026.md",
-    "weeknotes/20-06-2026.md",
-    "weeknotes/06-06-2026.md",
     "weeknotes/30-05-2026.md",
     "weeknotes/23-05-2026.md",
     "index.md",
