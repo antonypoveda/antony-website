@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="false">
   <title>Feed</title>
   <link href="/feed.xml" rel="self"/>
-  <updated>2026-07-19T00:00:00Z</updated>
+  <updated>2026-08-09T00:00:00Z</updated>
   <id>false</id>
+  <entry>
+    <title>Back - 3 to 7 August</title>
+    <link href="/weeknotes/09-08-2026/"/>
+    <updated>2026-08-09T00:00:00Z</updated>
+    <id>/weeknotes/09-08-2026/</id><content xml:lang="en" type="html">
+      <![CDATA[
+<figure><img src="/assets/images/blog/laptopstickers.jpg" alt=" The top of a MacBook Air laptop, covered in stickers related to the Government Digital Service. These include some reading: 'GDS Content Community: More than words', 'Look sideways', 'This is for everyone', 'Be bold, be bold, be bold', 'Doing the hard work to make it simple', 'Move fast and learn things', 'Fast and curious', 'Show the thing', 'What is the user need?', 'It's all about people'."></figure>
+<p class="govuk-body">First full week back from about 2 weeks off on holiday. Time to slowly ease my way in and-</p>
+<h2 id="all-change-please" tabindex="-1" class="govuk-heading-l">All change, please</h2>
+<p class="govuk-body">During my break it was announced the department housing GDS was no more, and we were moving to a newly re-formed Department for Digital, Culture, Media and Sport (DCMS).</p>
+<p class="govuk-body">Catching up on all this, along with the usual pile of catching up, has felt a bit like facing an avalanche. But I know that actually living through it will have been more stressful, given the uncertainty people went through while I was having ice cream by the beach. Weird times.</p>
+<p class="govuk-body">I feel pretty sanguine about the move at this point. We had already moved from the centre. And I’m confident we can keep doing good work. And it’s possible that being slightly less in the spotlight may benefit the kind of ‘digital public infrastructure’ I’m most interested in.</p>
+<p class="govuk-body">My biggest concern is the IT and corporate change disruption, but there are some early signs that this will be less sludgy than last time. And again, GDS is more than doubling the size of the host department. I wonder how it feels from the other parts?</p>
+<h2 id="at-our-service" tabindex="-1" class="govuk-heading-l">At our service</h2>
+<p class="govuk-body">In actual work, this week we planned the sprint for August, and very excitingly, welcomed our new service owner to the team. This marks the first time someone has been recruited specifically into this role since I started in the team.</p>
+<p class="govuk-body">I went down to London on my ‘no-work Wednesday’ to welcome them (and do assorted IT and corporate admin, including picking up a pass for department that no longer exists). We had a long chat about the history of the frameworks that the team looks after and how the services we offer have evolved.</p>
+<p class="govuk-body">I shared a rough description of the team’s purpose and service offerings that’s been rumbling around my mind over the last month since reading <a href="https://good.services/badservicesbook" class="govuk-link">Bad Services</a>. This is something like:</p>
+<blockquote data-govspeak="blockquote">
+<p class="govuk-body"><strong>Our purpose</strong><br>
+We exist to help government define and use its own skill standards<br>
+and role descriptions for digital, data, technology and cyber<br>
+security professionals (rather than use something else, or have none<br>
+at all).</p>
+</blockquote>
+<p class="govuk-body">Our <strong>2 core services</strong> are therefore:</p>
+<ol class="govuk-list govuk-list--number">
+<li>
+<p class="govuk-body">Changing the skill standards and role descriptions in response to<br>
+government and public sector needs (for example, through our<br>
+council governance or content co-design processes)</p>
+</li>
+<li>
+<p class="govuk-body">Making the skill standards and role descriptions available for government and public sector users (for example, through the website and how it’s designed, or through download files or future APIs).</p>
+</li>
+</ol>
+<p class="govuk-body">I’m hoping this is a helpful starting point, for example, for agreeing appropriate service outcomes and measures. And of course it’s in the service owner’s gift to refine, reframe, or just plain ignore me and start again. It’s just great to have someone thinking about this as part of their full time role.</p>
+<h2 id="sticking-around" tabindex="-1" class="govuk-heading-l">Sticking around</h2>
+<p class="govuk-body">The trains down and back from London also gave me some much needed space to outline my <a href="https://sdingov.net/programme/power-profession-what-happens-when-users-can-vote-change-your-product" class="govuk-link">case study session for the SDinGov conference</a> in September. I really need to get this drafted so I can start getting feedback on it.</p>
+<p class="govuk-body">Of course, the best bit of being in the London office was the chance to pilfer the large stash of stickers there. Seeing them all smushed up on my laptop, it struck me that, whatever happens to the organisation, there is a genuine user-focused spirit and identity threaded through parts of public service in the UK now.</p>
+<h2 id="next-week" tabindex="-1" class="govuk-heading-l">Next week</h2>
+<p class="govuk-body">Finalising the content changes going live on the digital and data framework at the end of August. Check out the list of <a href="https://ddat-capability-framework.service.gov.uk/projects" class="govuk-link">upcoming changes</a>.</p>
+<p class="govuk-body">I managed some more testing this week on a public list of proposals and ideas for changes. Next week, I aim to get a first version of this live, and train up my governance colleague to manage it.</p>
+<p class="govuk-body">Amongst, err, everything else, we are trying to migrate the digital and data framework content to a new CMS this month (the same one as the private beta cyber framework). Next week I get to start testing how this is going (rubs hands in pedantic design glee).</p>
+<h2 id="reading" tabindex="-1" class="govuk-heading-l">Reading</h2>
+<p class="govuk-body"><a href="https://bm.wel.by/2026/07/22/five-things-i-think-about-gds-data-and-ai-being-split-up-again/" class="govuk-link">GDS, AI and the missing theory of the digital state - Ben Welby</a></p>
+<p class="govuk-body"><a href="https://mikegallagher.org/posts/design-as-science-fiction/" class="govuk-link">Design as science as fiction - Mike Gallagher</a></p>
+<p class="govuk-body"><a href="https://blogs.bath.ac.uk/digital-content-and-development/2026/05/12/why-ai-doesnt-need-frequently-asked-questions/" class="govuk-link">Why AI doesn’t need Frequently Asked Questions (FAQs) - Rhian Griggs</a></p>
+<p class="govuk-body"><a href="https://mhclgdigital.blog.gov.uk/2026/07/28/naming-a-service-how-we-chose-a-name-for-share-homes-for-ukraine-data/" class="govuk-link">Naming a service: how we chose a name for Share Homes for Ukraine data - Denise Atkins</a></p>
+<p class="govuk-body"><a href="https://blogs.gov.scot/digital/2026/07/09/moving-beyond-clear-and-simple-to-reach-overwhelmed-users/" class="govuk-link">Moving beyond clear and simple to reach overwhelmed users - Sarah Waterfield</a></p>
+<p class="govuk-body"><a href="https://longform.asmartbear.com/strategic-choices/" class="govuk-link">Strategic choices: When both options are good - Jason Cohen</a></p>
+<p class="govuk-body"><a href="https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text" class="govuk-link">There are no lossless transformations of natural-language text - Sophie Alpert</a></p>
+<p class="govuk-body"><a href="https://technology.justworks.com/experience-design-is-about-finding-the-gaps-in-intent-33da59e83a17" class="govuk-link">Experience Design is about finding the gaps in intent - Pavel Samsonov</a></p>
+
+      ]]>
+    </content>
+  </entry>
   <entry>
     <title>Half - 6 to 17 July</title>
     <link href="/weeknotes/18-07-2026/"/>
