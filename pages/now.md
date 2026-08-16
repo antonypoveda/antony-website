@@ -5,6 +5,30 @@ includeInBreadcrumbs: false
 ---
 This [now page](https://nownownow.com) explains what I'm currently focused on. For more on what I've been up to, check my [weeknotes](/weeknotes).
 
+## Now: August 2026
+
+### Work
+* Finalising content changes for the [Government Digital and Data Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/) with experts in business analysis, business relationship management, AI and data ethics, and agile delivery.
+* Planning future work with information architects, portfolio managers and compliance and assurance.
+* Supporting our CMS migration and frontend rebuild.
+* Writing my session for [Service Design in Government](https://sdingov.net/programme/power-profession-what-happens-when-users-can-vote-change-your-product).
+
+### On the side
+* Setting up the next Sheffield X-Gov meetup in September.
+
+### Personal
+* Trips to Cheshire and the Lakes to see family.
+* Weekly swimming, weekly tag rugby, occasional running.
+* Reading books:
+	* Stuck? Diagrams Help by Abby Covert
+	* Dune: Messiah by Frank Herbet
+
+***
+Last updated: 16 August 2026
+
+<details class="govuk-details"><summary><h2 class="govuk-heading-l">View previous nows</h2>
+</summary>
+
 ## Now: July 2026
 
 ### Work
@@ -23,12 +47,10 @@ This [now page](https://nownownow.com) explains what I'm currently focused on. F
 * Weekly swim, weekly tag rugby, occasional running.
 * Reading books:
 	* Stuck? Diagrams Help by Abby Covert
+	* The Rose Field - Phillip Pullman
+
 
 ***
-Last updated: 12 July 2026
-
-<details class="govuk-details"><summary><h2 class="govuk-heading-l">View previous nows</h2>
-</summary>
 
 ## June 2026
 
