@@ -7,6 +7,67 @@ includeInBreadcrumbs: false
 Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 [[toc]]
+***
+## August 2026
+
+[GDS, AI and the missing theory of the digital state - Ben Welby](https://bm.wel.by/2026/07/22/five-things-i-think-about-gds-data-and-ai-being-split-up-again/)
+
+[Design as science fiction - Mike Gallagher](https://mikegallagher.org/posts/design-as-science-fiction/)
+
+[Why AI doesn’t need Frequently Asked Questions (FAQs) - Rhian Griggs](https://blogs.bath.ac.uk/digital-content-and-development/2026/05/12/why-ai-doesnt-need-frequently-asked-questions/)
+
+[Naming a service: how we chose a name for Share Homes for Ukraine data - Denise Atkins](https://mhclgdigital.blog.gov.uk/2026/07/28/naming-a-service-how-we-chose-a-name-for-share-homes-for-ukraine-data/)
+
+[Moving beyond clear and simple to reach overwhelmed users - Sarah Waterfield](https://blogs.gov.scot/digital/2026/07/09/moving-beyond-clear-and-simple-to-reach-overwhelmed-users/)
+
+[Strategic choices: When both options are good - Jason Cohen](https://longform.asmartbear.com/strategic-choices/)
+
+[There are no lossless transformations of natural-language text - Sophie Alpert](https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text)
+
+[Experience Design is about finding the gaps in intent - Pavel Samsonov](https://technology.justworks.com/experience-design-is-about-finding-the-gaps-in-intent-33da59e83a17)
+
+[What is your approach to performance - Alastair Lamb](https://open.substack.com/pub/aslivedbyme/p/what-is-your-approach-to-performance)
+
+[Show and Tell: AI categorisation and distribution of shared mailbox email - Cumberland Council](https://intranet.cumberland.gov.uk/blogs/digital/show-and-tell-ai-categorisation-and-distribution-shared-mailbox-email)
+
+[From the frontline to the future: my 23-year journey through local government and technology - Hazel Lunn ](https://luton.localgov.blog/2026/08/05/from-the-frontline-to-the-future-my-23-year-journey-through-local-government-and-technology/)
+
+[Making sense of complex vaccination histories: what we’ve learned so far - Ben Dawson and Martin Wright](https://design-history.prevention-services.nhs.uk/check-childrens-vaccination-history/2026/07/making-sense-of-complex-vaccination-histories/)
+
+[How the NHS App presents different prevention service results - Alistair Ruff](https://design-history.prevention-services.nhs.uk/managing-my-health/2026/08/examples-of-results/) - yes, I am becoming addicted to NHS design histories.
+
+[We don't need a better candle, we need electricity - Andy Parker](https://theuxcoach.substack.com/p/we-dont-need-a-better-candle-we-need)
+
+[Why the UK Government correspondence system fails citizens, and how to fix it - Robin Watts](https://public.digital/pd-insights/blog/2026/07/why-the-uk-government-correspondence-system-fails-citizens)
+
+[Rare things become common at scale - Jason Cohen](https://longform.asmartbear.com/scale-rare/)
+
+[Accessibility checklist and guidance - NHS Digital](https://nhsdigital.github.io/accessibility-checklist/checklist-full/)
+
+[Adopting a user-centred design approach to our internal content landscape - Sian Goodwin](https://mhclgdigital.blog.gov.uk/2026/08/27/adopting-a-user-centred-design-approach-to-our-internal-content-landscape/)
+
+[Can a library be a game? Weaving an ARG through a national collection - Russell Dornan](https://medium.com/@RussellDornan/can-a-library-be-a-game-weaving-an-arg-through-a-national-collection-6a1d3a9f57c0)
+
+[The Right But Early Club - John Cutler](https://cutlefish.substack.com/p/tbm-438-the-right-but-early-club)
+
+[How to make a bestseller: insiders reveal the tricks of the book trade - John Self](https://www.theguardian.com/books/ng-interactive/2026/aug/29/how-to-make-a-bestseller-insiders-reveal-the-tricks-of-the-book-trade)
+
+***
+## July 2026
+
+[Stuck? Diagrams help by Abby Covert](https://abbycovert.com/stuck/)
+
+[How to grow tomorrows - James Plunkett](https://medium.com/@jamestplunkett/how-to-grow-tomorrows-2cbd52b9fd5e)
+
+[The portal trap - Cathy Dutton](https://cathydutton.co.uk/posts/the-portal-trap/)
+
+[How to build a design system strategy you'll actually deliver - Amy Hupe](https://amyhupe.co.uk/articles/design-system-strategies/)
+
+[Plans vs roadmaps - Jamie Arnold](https://www.jamiearnold.com/blog/2017/1/25/plans-vs-roadmaps)
+
+[Keep your designs low fidelity until thinking done -  Ray Newman](https://www.linkedin.com/pulse/keep-your-designs-low-fidelity-until-thinking-done-ray-newman-uqm0e)
+
+[How [public service product] people Work - Matt Jukes](https://digitalbydefault.com/2026/07/18/how-public-service-product-people-work/)
 
 ***
 ## June 2026
