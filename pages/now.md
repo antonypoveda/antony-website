@@ -21,7 +21,8 @@ This [now page](https://nownownow.com) explains what I'm currently focused on. F
 * Weekly swimming, weekly tag rugby, occasional running.
 * Reading books:
 	* Stuck? Diagrams Help by Abby Covert
-	* Dune: Messiah by Frank Herbet
+	* Dune: Messiah by Frank Herbert
+	* The Coniston Case - Rebecca Tope
 
 ***
 Last updated: 16 August 2026
