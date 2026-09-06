@@ -2,8 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="false">
   <title>Feed</title>
   <link href="/feed.xml" rel="self"/>
-  <updated>2026-08-30T00:00:00Z</updated>
+  <updated>2026-09-06T00:00:00Z</updated>
   <id>false</id>
+  <entry>
+    <title>Snappy - 1 to 4 September</title>
+    <link href="/weeknotes/06-09-2026/"/>
+    <updated>2026-09-06T00:00:00Z</updated>
+    <id>/weeknotes/06-09-2026/</id><content xml:lang="en" type="html">
+      <![CDATA[
+<figure><img src="/assets/images/blog/waterbugs.jpg" alt="Photo of a small, clear, round plastic container, shot from above, within which are various tiny little creepy crawlies you might find in a pond."></figure>
+<p class="govuk-body">A little week with just 3 days of work, so let’s keep this snappy.</p>
+<h2 id="this-week" tabindex="-1" class="govuk-heading-l">This week</h2>
+<p class="govuk-body">This week, I have:</p>
+<ul class="govuk-list govuk-list--bullet">
+<li>moved my non-working day so we could take Kid A to Gulliver’s Valley with their friends before first ever days of school - such a fun day out and the school start seems to have gone well too, phew</li>
+<li>finished up (almost) all of the documentation following the latest update to the <a href="https://ddat-capability-framework.service.gov.uk/" class="govuk-link">Digital and Data Profession Capability Framework</a></li>
+<li>planned the content change work for this month’s sprint cycle  - with the understanding that things will likely need re-prioritising or pushing back because of site migration</li>
+<li>got back to testing the rebuilt site frontend and our new CMS - getting closer, just a couple of chunky things remaining to work on with the dev, such as search and feedback components</li>
+<li>chatted briefly again with fellow content designers and information architects about ‘how to fix all the GDS guidance things’ - this involved a convoluted analogy based on the <a href="https://www.youtube.com/watch?v=AkKzZr9RT0E" class="govuk-link">council scene from LOTR</a> which I swear was helpful in the moment</li>
+<li>a couple of sessions thinking deeply about how we might change  ‘skills’ to make things better for the profession and government - great discussions with our team and capability leads from around gov</li>
+<li>more notes and ideas for <a href="https://sdingov.net/programme/power-profession-what-happens-when-users-can-vote-change-your-product" class="govuk-link">my SDinGov session</a> - I absolutely have to start putting the slides together next week, or else</li>
+<li>walked the new service owner through every step of the current governance and co-design processes that effectively form our <a href="/weeknotes/09-08-2026/#:~:text=Our%202%20core,or%20future%20APIs" class="govuk-link">‘change the framework’ service</a> - we’ve started a really detailed diagram, yey!</li>
+<li>struggled with some recruitment and HR fun - nuff said</li>
+<li>checked on signups for the next X-Gov Sheffield meetup, and happily we’ve already hit our unofficial target - you can still <a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=BXCsy8EC60O0l-ZJLRst2Jre5EtS4GJGqikwhOdA5qpUMENURFIzOUZOQkFDREhGVzVMTFhXMTlCVi4u" class="govuk-link">sign up to join us for breakfast  and coffee on 17 September</a></li>
+</ul>
+<h2 id="next-week" tabindex="-1" class="govuk-heading-l">Next week</h2>
+<p class="govuk-body">Next week I’m looking forward to:</p>
+<ul class="govuk-list govuk-list--bullet">
+<li>getting in to some design work for both the site and <a href="https://ddat-capability-framework.service.gov.uk/projects" class="govuk-link">upcoming content changes</a></li>
+<li>a proper away day in Manchester with the wider team - always nice to see everyone in person</li>
+<li>a <a href="https://www.eventbrite.co.uk/e/gds-local-early-years-innovation-day-wednesday-9-september-sheffield-tickets-1997839913963" class="govuk-link">hackathon in Sheffield</a> exploring ‘how better use of information could help identify and help children who need support earlier’</li>
+</ul>
+<h2 id="reading-and-listening" tabindex="-1" class="govuk-heading-l">Reading and listening</h2>
+<ul class="govuk-list govuk-list--bullet">
+<li><a href="https://abbycovert.com/product/stuck-diagrams-help/" class="govuk-link">Stuck? Diagrams Help. - Abby Covert</a></li>
+<li><a href="https://theuxcoach.substack.com/p/gateshead-revisted" class="govuk-link">Gateshead revisited - Andy Parker</a></li>
+<li><a href="https://99percentinvisible.org/episode/681-1-800-podcast/" class="govuk-link">1-800-PODCAST - 99% Invisible</a></li>
+<li><a href="https://www.linkedin.com/pulse/sometimes-you-just-need-sit-down-do-boring-job-ray-newman-nsoue/" class="govuk-link">Sometimes you just need to sit down and do the boring, time-consuming job - Ray Newman</a></li>
+<li><a href="https://tomforth.co.uk/whynorthenglandispoor/" class="govuk-link">Why North England is poor - Tom Forth</a></li>
+</ul>
+
+      ]]>
+    </content>
+  </entry>
   <entry>
     <title>Double - 17 to 28 August</title>
     <link href="/weeknotes/30-08-2026/"/>
@@ -24,7 +65,7 @@
 <h2 id="what-was-challenging" tabindex="-1" class="govuk-heading-l">What was challenging</h2>
 <p class="govuk-body">Time, time, time. Difficult to find it for both migration-related design and testing, and the usual processes to get the latest update to framework content published. Something had to give to maintain this double focus, and so I didn’t manage to get a simple new page, <a href="/weeknotes/18-07-2026" class="govuk-link">listing ideas for changes to the framework</a>, live this month.</p>
 <p class="govuk-body">Until February I was lucky to have my fantastic content designer colleague, Olivia, handling the bulk of the cross-government co-design and publishing work. This allowed me to focus on the longer term strategic work + fill in other gaps in the team.</p>
-<p class="govuk-body">While, as of this month, the gaps are now filled, there is still plenty of strategic design stuff to do (for example, how we might we support <a href="https://www.techuk.org/resource/no10-north-putting-digital-capability-at-the-heart-of-devolution.html" class="govuk-link">digital devolution</a>?). I think I might need to be more realistic about what can be delivered in both areas over this autumn.</p>
+<p class="govuk-body">While, as of this month, the gaps are now filled, there is still plenty of strategic design stuff to do (for example, how might we support <a href="https://www.techuk.org/resource/no10-north-putting-digital-capability-at-the-heart-of-devolution.html" class="govuk-link">digital devolution</a>?). I think I might need to be more realistic about what can be delivered in both areas over this autumn.</p>
 <h2 id="other-things" tabindex="-1" class="govuk-heading-l">Other things</h2>
 <p class="govuk-body">The next X-Gov Sheffield is set for Thursday 17 September. <a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=BXCsy8EC60O0l-ZJLRst2Jre5EtS4GJGqikwhOdA5qpUMENURFIzOUZOQkFDREhGVzVMTFhXMTlCVi4u" class="govuk-link">Join us for breakfast and coffee from 8.30am at Watt Bar</a>.</p>
 <p class="govuk-body">I did some ‘working holiday’ with the family in the Lakes (where I work and everyone else is on holiday). This let me test out the commute by train from there to Manchester a couple of times. Much, much smoother than from Sheffield, it turns out. Luckily, the train WiFi is identically useless.</p>
@@ -764,56 +805,6 @@ We will know this works if we see (measurable change).</p>
 <li><a href="https://digitalbydefault.com/2026/02/21/a-decade-later-launching-the-ons-website-in-2016/" class="govuk-link">A decade later – launching the ONS website in 2016</a></li>
 <li><a href="https://www.scroll.co.uk/scroll-blog/how-to-design-a-style-guide" class="govuk-link">How to design a style guide (that people can actually use)</a></li>
 <li><a href="https://contentdesign.london/blog/the-public-deserves-services-that-are-useful-usable-and-safe" class="govuk-link">The public deserves services that are useful, usable and safe</a></li>
-</ul>
-
-      ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Hack - 9 to 13 February</title>
-    <link href="/weeknotes/14-02-2026/"/>
-    <updated>2026-02-14T00:00:00Z</updated>
-    <id>/weeknotes/14-02-2026/</id><content xml:lang="en" type="html">
-      <![CDATA[
-<h2 id="work-week" tabindex="-1" class="govuk-heading-l">Work week</h2>
-<p class="govuk-body">The week started with the decision on platform choice we’ve been treading water waiting for. Happily it’s ended up nearer to the <a href="/weeknotes/07-02-2026" class="govuk-link">third way I’d advocated last week</a>: Launching a stripped down ‘beta’ site using our established tech and frontend, while setting expectations that more functionality and content will be coming through a public roadmap.</p>
-<p class="govuk-body">But then of course the real work starts, and with a gnarly hard deadline coming up fast before the end of the month. So lots of getting the team together, setting clear goals each day, working out what really needs doing and where we need others onside. We’re also working radically in the open (compared to our wider team) using the justification that it will save time all round.</p>
-<p class="govuk-body">It was typically hard crunchy work for first 2 days. First to define, agree and communicate our scope, then some rapid design and tech decision making, but amazingly we were already set to demo a prototype site to a group of cross-government stakeholder/users by Wednesday afternoon. I wasn’t there (still non-working/parenting day Wednesdays for me, going strong since 2022💪 ) but judging by feedback, the team, including brand new content designer, seems to have smashed the session out of the park.</p>
-<p class="govuk-body">Building and maintaining trust with users in departments is maybe the most important part of our work. Our approach has been to carefully explain not just what we’re confident in, but also where we’re less certain, especially about future plans. We’re also constantly asking for input and feedback to learn about the realities of departments we’re looking to support. It’s really heartening to see this honest approach get buy in from our leaders and those outside the organisation.</p>
-<p class="govuk-body">The end of my week did get consumed by too much domain wrangling and testing set up, and not enough design, but I’m still confident that <em>something</em> useful will be in place by deadline.</p>
-<p class="govuk-body">On a less positive note, our preferred candidate for the user researcher role to support all this work long term has dropped out. Not quite unexpected, but we may need to get creative to fill this position sooner than the 5 months it took to not get someone in at all.</p>
-<h2 id="hack-a-thon" tabindex="-1" class="govuk-heading-l">Hack-a-thon</h2>
-<p class="govuk-body">Amongst the above, I was somehow able to keep a 2.5 hour block in my calendar free to take part in the latest <a href="https://www.eventbrite.co.uk/e/connecting-design-systems-hack-2-tickets-1981741887332" class="govuk-link">Design System Hackathon</a> run by GDS, and the Ministry of Justice team running the new <a href="https://dev.reuselibrary.service.justice.gov.uk/" class="govuk-link">GOV Reuse Library</a>.</p>
-<p class="govuk-body">I’m very glad I blocked out the time. The facilitators did a great job setting a playful tone and leading a group of 100+ through a fully online ‘hack’ session.</p>
-<p class="govuk-body">Our goal was to ‘inspire’ a team starting to look at improving how designers and devs building services can discover and use components and patterns in the ecosystem of public sector design systems that now exist. For example:</p>
-<ul class="govuk-list govuk-list--bullet">
-<li><a href="https://design-system.service.gov.uk/" class="govuk-link">GOV.UK Design System</a></li>
-<li><a href="https://design-patterns.service.justice.gov.uk/" class="govuk-link">Ministry of Justice Design System</a></li>
-<li><a href="https://designsystem.gov.scot/" class="govuk-link">Scottish Government Design System</a></li>
-<li><a href="https://service-manual.nhs.uk/design-system" class="govuk-link">NHS Design System</a></li>
-<li><a href="https://service-manual.ons.gov.uk/design-system" class="govuk-link">Office for National Statistics Design System</a></li>
-<li><a href="https://design-system.dwp.gov.uk/components" class="govuk-link">Department for Work and Pensions Design System</a></li>
-</ul>
-<p class="govuk-body">My lovely group had a lot of fun fleshing out our idea: ‘The Great Design System Bakeoff’, a 3 day challenge where teams of cross gov digital people compete to build the most chimeric public sector service possible, with the winners voted for by the wider community. Our proposition was this would:</p>
-<ul class="govuk-list govuk-list--bullet">
-<li>take advantage of the current situation where learning about design systems is often reliant on relationships and connections</li>
-<li>build relationships and community across organisations (and therefore shared understanding of different systems)</li>
-<li>leverage the power of “razzmatazz” to highlight the various systems and the valuable work of UCD teams</li>
-</ul>
-<figure><img src="/assets/images/blog/designsystembakeoff.jpg" alt="A mockup of a poster for our proposed competition. The 4 hosts and judges of the original 'bakeoff' TV show are behind a table covered in a blue and white checked table cloth. On the tables are various incredible cakes and fancy looking buns. The faces of the hosts have been covered by the logos for GOV.UK, DWP, Scottish Government, Home Office and Ministry of Justice. We've clumsily edited the original bakeoff logo to read 'Great Design System Bakeoff' by pasting over the word 'British'."><figcaption>Mockup of a poster for our proposed competition</figcaption></figure>
-<p class="govuk-body">No idea if this will prove useful to the facilitators (most ideas were a little more grounded and had less photoshopping of Noel and Prue). But since the GDS Design community session last week I’ve been thinking a lot about ‘having fun’ at work, and the serious benefits that can result. This felt a perfect opportunity to give that a go, so am excited to see what happens next.</p>
-<h2 id="to-do" tabindex="-1" class="govuk-heading-l">To do</h2>
-<ul class="govuk-list govuk-list--bullet">
-<li>Set up the next ‘X-Gov Sheffield meetup’ for Tuesday 3 March</li>
-<li>Enjoy the Winter Olympics while we have it. It’s ridiculous and great, isn’t it.</li>
-</ul>
-<h2 id="reading" tabindex="-1" class="govuk-heading-l">Reading</h2>
-<ul class="govuk-list govuk-list--bullet">
-<li><a href="https://www.thecontentwrangler.com/p/shifting-roles-from-content-professionals" class="govuk-link">Shifting Roles - From Content Professionals to Ontologists</a></li>
-<li><a href="https://visitmy.website/2026/02/11/leadership-health-metrics/" class="govuk-link">Leadership health metrics</a></li>
-<li><a href="https://futureobservatory.org/news/sheffield-design-lab-uk2040" class="govuk-link">Sheffield Design Lab</a></li>
-<li><a href="https://cutlefish.substack.com/p/tbm-406-seeing-everything-understanding" class="govuk-link">Seeing Everything, Understanding Nothing (The Context Trap)</a></li>
-<li><a href="https://civicworks.substack.com/p/practice-notes-on-including-citizens" class="govuk-link">Practice notes on including citizens in the design process</a></li>
 </ul>
 
       ]]>

@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "30-08-2026"
             }
+          },
+          {
+            "id": "ff1f6c0fc8a829a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weeknotes/06-09-2026.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "06-09-2026"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -56,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -198,11 +214,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "4092c1d70456081c",
+  "active": "ff1f6c0fc8a829a9",
   "lastOpenFiles": [
+    "weeknotes/30-08-2026.md",
+    "weeknotes/06-09-2026.md",
     "links.md",
     "now.md",
-    "weeknotes/30-08-2026.md",
     "weeknotes/18-07-2026.md",
     "weeknotes/16-08-2026.md",
     "weeknotes/09-08-2026.md",
@@ -224,7 +241,6 @@
     "weeknotes/21-03-2026.md",
     "weeknotes/05-04-2026.md",
     "weeknotes/04-05-2026.md",
-    "weeknotes/10-05-2026.md",
-    "weeknotes/16-05-2026.md"
+    "weeknotes/10-05-2026.md"
   ]
 }
