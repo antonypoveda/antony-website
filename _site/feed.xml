@@ -2,8 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="false">
   <title>Feed</title>
   <link href="/feed.xml" rel="self"/>
-  <updated>2026-09-06T00:00:00Z</updated>
+  <updated>2026-09-13T00:00:00Z</updated>
   <id>false</id>
+  <entry>
+    <title>Local - 7 to 11 September</title>
+    <link href="/weeknotes/13-09-2026/"/>
+    <updated>2026-09-13T00:00:00Z</updated>
+    <id>/weeknotes/13-09-2026/</id><content xml:lang="en" type="html">
+      <![CDATA[
+<figure><img src="/assets/images/blog/localhack.jpg" alt="Rough biro sketches of simple figures and icons for things like books, phones, writing, and user flows, representating different ideas for how stories could support the people, families and professionals, involved in the care of young children."></figure>
+<p class="govuk-body">This week’s theme has undoubtedly been devolution, and all things local.</p>
+<h2 id="away-day" tabindex="-1" class="govuk-heading-l">Away day</h2>
+<p class="govuk-body">On Tuesday my team and those in the wider Capability area met up for an away day in Manchester (yey!), in the shadow of Old Trafford (boo!). It was also the first time the current lineup of our framework team had all met in person, what a lovely bunch.</p>
+<p class="govuk-body">The day covered a lot:</p>
+<ul class="govuk-list govuk-list--bullet">
+<li>leadership’s view on increased devolution and what that might mean for the work of our wider Government Digital Enablement directorate - essentially, we think we’re well placed to make it happen</li>
+<li>changes in wider team structure - all looking very sensible, should give us clearer direction</li>
+<li>planning for the next quarter - checking whether our plans are practical and spotting dependencies across teams</li>
+<li>a talk on how LLMs might change the shape of work for different roles - can it meaningfully move past ‘faster admin’?</li>
+</ul>
+<p class="govuk-body">This felt like a really valuable and progressive day. The devolution direction feels genuinely exciting. I wonder if the next day together could be held in a local government office?</p>
+<h2 id="hackathon" tabindex="-1" class="govuk-heading-l">Hackathon</h2>
+<p class="govuk-body">Continuing the local gov theme, on Wednesday I attended the Early Years Innovation Hackathon in my  very own Sheffield.</p>
+<p class="govuk-body">My team was a great mix of backgrounds including policy, data engineering, service and product management and myself as the sole designer.</p>
+<p class="govuk-body">Given the range of deep expertise around me and my own unfamiliarity, I was initially keen to hang back and see what problems emerged. But once the team twigged that I ‘did words’ I ended up doing a lot of work defining stuff, like the part of the problem we were addressing, what success would look like, and potential solution concepts.</p>
+<p class="govuk-body">Throughout the day, I tried to help the team:</p>
+<ul class="govuk-list govuk-list--bullet">
+<li>keep the experience of families and professionals front of mind</li>
+<li>push the team to think wider than a digital interface (no more dashboards!)</li>
+<li>developing concepts into something tangible</li>
+</ul>
+<p class="govuk-body">This meant a lot of time holding the pen at the whiteboard so I’m worried I’m in an inordinate amount of photos and video from the day.</p>
+<figure><img src="/assets/images/blog/localhack2.jpg" alt="A white board covered in writing defining the experience we were aiming to create, the hypothesis for our solution, an example moment this could be used to support, and a timeline showing the journey of a story, with various events that affect it, like data changes and edits by professionals and families."></figure>
+<p class="govuk-body">Our team focused on improving how transitions between stages and services were experienced by families. Our prototype ended up being a ‘story’, a piece of written text summarising the child’s journey across ‘early years’, weaving together data and wider context into something more readable and human.</p>
+<p class="govuk-body">The story (codenamed VOICE) was designed to act as an interface that could be authored and shared by all the different types of professional involved with a child, as well as the family itself. It could even be printed as a children’s story book.</p>
+<p class="govuk-body">It felt great to completely get out of the usual day to day work, meet a ton of new people, and see if I could apply my skills to a new area. I realised the last time I did something similar in person was 2019! Unlike 2019 though, I had to leave just before the presentations due to some urgent childcare.</p>
+<p class="govuk-body">Anyway, looking forward to another hack soon. Hats off to the GDS Local team for running such a smooth, if intense, day bringing together so many different types of people.</p>
+<h2 id="other-stuff" tabindex="-1" class="govuk-heading-l">Other stuff</h2>
+<ul class="govuk-list govuk-list--bullet">
+<li>On Thursday, the devolution theme continued in a long but productive workshop looking at how the wider team could work differently to grow local government’s digital capability - looking forward to contributing more to this work over the rest of the month.</li>
+<li>Yet more testing and design tweaks for the rebuilt site and its underlying CMS - next week should be the last stretch to get ready for switch over on the 30th.</li>
+<li>All set for the next X-Gov Sheffield meetup next Thursday.</li>
+</ul>
+<h2 id="reading" tabindex="-1" class="govuk-heading-l">Reading</h2>
+<p class="govuk-body"><a href="https://mikegallagher.org/posts/persistence-of-vision/" class="govuk-link">Persistence of vision - Mike Gallagher</a></p>
+<p class="govuk-body"><a href="https://www.linkedin.com/pulse/where-start-solving-information-architecture-ia-problems-ray-newman-w0ive/" class="govuk-link">Where to start with solving information architecture (IA) problems - Ray Newman</a></p>
+<p class="govuk-body"><a href="https://buttondown.com/muledesign/archive/not-without-a-fight/" class="govuk-link">Not without a fight - Mule Design</a></p>
+<p class="govuk-body"><a href="https://www.undermanager.com/writing-is-thinking-presenting-is-deciding/" class="govuk-link">Writing is thinking, presenting is deciding - Russell Davies</a></p>
+<p class="govuk-body"><a href="https://www.nature.com/articles/d41586-026-02682-3" class="govuk-link">Bland new world: is AI making us all think the same? - Matthew Hutson</a></p>
+
+      ]]>
+    </content>
+  </entry>
   <entry>
     <title>Snappy - 1 to 4 September</title>
     <link href="/weeknotes/06-09-2026/"/>
@@ -770,41 +820,6 @@ We will know this works if we see (measurable change).</p>
 <li><a href="https://www.rpp.works/ways-of-doing/talk-transforming-health-and-delivering-the-nhs-10-year-plan/" class="govuk-link">Transforming health and delivering the NHS 10-year plan - Richard Pope</a></li>
 <li><a href="https://medium.com/kainosxd/documenting-a-service-as-a-content-designer-d320af7f2604" class="govuk-link">Documenting a service as a content designer - Amy Noss</a></li>
 <li><a href="https://ademolaadepoju.substack.com/p/what-do-companies-actually-want-from" class="govuk-link">What Do Companies Actually Want from Content Designers in 2026? - Ademola Adepoju</a></li>
-</ul>
-
-      ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Realistic - 16 to 20 February</title>
-    <link href="/weeknotes/22-02-2026/"/>
-    <updated>2026-02-22T00:00:00Z</updated>
-    <id>/weeknotes/22-02-2026/</id><content xml:lang="en" type="html">
-      <![CDATA[
-<h2 id="work-week" tabindex="-1" class="govuk-heading-l">Work week</h2>
-<p class="govuk-body">Bit of a reality check, after thinking about <a href="/weeknotes/14-02-2026" class="govuk-link">fun at work last week</a>.</p>
-<p class="govuk-body">Over this week our small but mighty team has had blockers and unexpected events pop up, each one potentially derailing us ahead of our launch date. Cumulatively this reached a point where on Thursday morning we made a tough call on what can be realistically delivered next week.</p>
-<p class="govuk-body">We’ve been offered support for the team, so there’s still a chance to meet the original scope. Even so I hope we’ve learned:</p>
-<ul class="govuk-list govuk-list--bullet">
-<li>everything will always take longer than expected, and things will always go wrong - so build in that expectation, avoid 100% guarantees to other stakeholders, always have an acceptable plan B agreed</li>
-<li>we can be more confident in explaining right from the start how precarious technical delivery is going to be with a short timeframe and a small team</li>
-</ul>
-<p class="govuk-body">On the plus side it has been great to see the core team pull together, especially the newer members. We’re bringing our own strengths, supporting each other, working things through. It’s definitely been a bonding experience, which should help with future challenges.</p>
-<p class="govuk-body">Myself, as we’re temporarily short of experienced management roles (who know how to navigate the organisation) I’ve been stepping in to support every other bit of delivery, and almost park my actual design role. I’ve had to reckon with how the resulting context switching and extended responsibility has affected both my mood in and out of work, and my physical ability to actually do work. There was a point on Thursday where I felt totally jammed, which hasn’t happened for a long, long time. So yes, it’s all experience for the future CV/interviews, but also something to think carefully about if this becomes a regular situation.</p>
-<p class="govuk-body">Weirdly, a job ad in another department popped up this week which is almost a carbon copy of this temporary super-hybrid role I’ve ended up in the last 2 weeks (delivery management-service-designer-plus-content-and frontend-design-and-ops-thereof-oh-and-also-product management). All I can say, from my brief experience, is “errr I’m totally not sure it’s a realistic, sustainable, full time role for one person, maybe…?”.</p>
-<p class="govuk-body">Amongst this have managed a couple of good chats with like-minded people in adjacent and not so adjacent parts of the organisation, helping with perspective and sparking ideas. It’s a good place because of good people, ultimately.</p>
-<h2 id="other-things" tabindex="-1" class="govuk-heading-l">Other things</h2>
-<p class="govuk-body">Set up the next meetup day for public sector folk in Sheffield on Tuesday 17 March, loads of interest already - if you’re round the South Yorkshire area, join us! <a href="https://forms.office.com/e/iZjT0cNisu" class="govuk-link">Find out more and sign up for X-Gov Sheffield breakfast/lunch</a>.</p>
-<p class="govuk-body">Attended a helpful design community session about pitching for Service Design in Government. No excuses now.</p>
-<p class="govuk-body">Played tag rugby on Tuesday evening in -2C, and really struggled physically over the next couple of days. So maybe I’m just ill 🤷.</p>
-<h2 id="reading" tabindex="-1" class="govuk-heading-l">Reading</h2>
-<ul class="govuk-list govuk-list--bullet">
-<li><a href="https://rummanamin.co.uk/tackling-technical-debt-without-stopping-delivery/" class="govuk-link">Tackling technical debt without stopping delivery</a></li>
-<li><a href="https://laurenleek.substack.com/p/britain-lost-14000-third-places-they" class="govuk-link">Britain Lost 14,000 Third Places. They Were Called Pubs. Is Your Local Next?</a></li>
-<li><a href="https://tomloosemorework.wordpress.com/2026/02/19/ai-and-the-end-of-friction-as-a-policy-lever/" class="govuk-link">AI and the end of friction as a policy lever</a></li>
-<li><a href="https://digitalbydefault.com/2026/02/21/a-decade-later-launching-the-ons-website-in-2016/" class="govuk-link">A decade later – launching the ONS website in 2016</a></li>
-<li><a href="https://www.scroll.co.uk/scroll-blog/how-to-design-a-style-guide" class="govuk-link">How to design a style guide (that people can actually use)</a></li>
-<li><a href="https://contentdesign.london/blog/the-public-deserves-services-that-are-useful-usable-and-safe" class="govuk-link">The public deserves services that are useful, usable and safe</a></li>
 </ul>
 
       ]]>
