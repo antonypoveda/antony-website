@@ -2,8 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="false">
   <title>Feed</title>
   <link href="/feed.xml" rel="self"/>
-  <updated>2026-09-13T00:00:00Z</updated>
+  <updated>2026-09-30T00:00:00Z</updated>
   <id>false</id>
+  <entry>
+    <title>Edinburgh - 21 to 25 September</title>
+    <link href="/weeknotes/30-09-2026/"/>
+    <updated>2026-09-30T00:00:00Z</updated>
+    <id>/weeknotes/30-09-2026/</id><content xml:lang="en" type="html">
+      <![CDATA[
+<figure><img src="/assets/images/blog/powerprofession.jpg" alt="Photo of an empty conference stage with three chairs and a wooden lectern, taken from stage right. A projected slide says 'Power to the Profession! Case Study, Antony Poveda, Senior Content Designer, Government Digital Service'. The slide appears to have a rainbow pattern due to the camera. The lectern is on the right and displays the logo for 'SDinGov'."></figure>
+<p class="govuk-body">A full on week, mostly out of the office. Hence this very late weeknote.</p>
+<h2 id="last-week" tabindex="-1" class="govuk-heading-l">Last week</h2>
+<p class="govuk-body">I was up in Edinburgh from Tuesday to Friday for <a href="https://sdingov.net/programme-2026" class="govuk-link">Service Design in Government</a>.</p>
+<p class="govuk-body">This year, the theme was ‘democratising design’. Once again, it’s been a thought-provoking, energising and intense few days. Everyone has such expertise and is so open to chat. To me, it felt like an unofficial theme threaded through talks, workshops and corridor conversations was ‘how can we make services as human as possible?’.</p>
+<p class="govuk-body">I was lucky enough to be doing a talk myself, called ‘Power to the Profession!’. I took the audience through the governance of the capability framework and how we’ve ended up with a ‘democratic product’, where voting plays a part in our roadmap.</p>
+<figure><img src="/assets/images/blog/governancechange.png" alt="slide from my presentation setting out things that could affect how we change the framework, including Digital Devolution, the forming of our new department, shared HR systems, and the evolution of digital roles and skills"></figure>
+<p class="govuk-body">For my first conference talk, I think it went pretty well. People were very kind about it to my face, at least. I do think it was interesting for the audience to see behind-the-scenes and I had great followup chats about my provocations for how the governance could evolve.</p>
+<p class="govuk-body">Other good things:</p>
+<ul class="govuk-list govuk-list--bullet">
+<li>this year, I focused on going to the workshops and interactive sessions - it felt refreshing to be engaging my brain in a work-adjacent context</li>
+<li>I  got to meet lots of designer colleagues at GDS I would never normally meet - everyone was lovely and had so much passion and care for making things better for people</li>
+<li>I run-walked up Arthur’s Seat early on Thursday morning - still feeling it now in the calves, but absolutely worth it</li>
+<li>inspired by a chaotic game run in one of the sessions, my teammate Flo and I sketched out the bones of a game we’re going to try and run for everyone on our next away day - 3 words:  apocalypse, betrayal, allotment</li>
+</ul>
+<p class="govuk-body"><img src="/assets/images/blog/democratictests.jpg" alt="snap of a slide showing design tests for democratic services."><br>
+Slide from Laura Yarrow’s excellent keynote, showing 5 design tests for more democratic services.</p>
+<p class="govuk-body">Hopefully we can get more of the team up there next year. My head feels quite chaotically stuffed full of ideas. I’ll need some time to reflect, distill and share what I learned.</p>
+<h2 id="next-week" tabindex="-1" class="govuk-heading-l">Next week</h2>
+<p class="govuk-body">We plan to put live the rebuilt frontend and new content management system for the framework - ideally users only notice the new domain name, an improved search and no downtime whatsoever, but expect the unexpected.</p>
+<p class="govuk-body">I’ll also be seeing about setting up the next few X-Gov Sheffield breakfasts.</p>
+<h2 id="reading" tabindex="-1" class="govuk-heading-l">Reading</h2>
+<p class="govuk-body"><a href="https://news.artnet.com/art-world/museum-wall-labels-2804505" class="govuk-link">Wall Labels Are in a Sorry State. Here’s How to Fix Them - Ben Davis</a></p>
+<p class="govuk-body"><a href="https://boringmagi.cc/2025/05/08/metrics-measures-and-indicators/" class="govuk-link">Metrics, measures and indicators: a few things to bear in mind - Steve Messer</a></p>
+<p class="govuk-body"><a href="https://design-history.prevention-services.nhs.uk/screening/2026/09/using-agile-in-healthcare/" class="govuk-link">Using agile practices in digital screening: lessons we’ve been learning - Christine Cawthorne</a></p>
+<p class="govuk-body"><a href="https://www.officeofwilson.com/weapons/" class="govuk-link">Weapons - Simon Morgan-Wilson</a></p>
+<p class="govuk-body"><a href="https://digitaltrade.blog.gov.uk/2026/09/28/the-fastest-way-to-improve-policy-is-to-build-it/" class="govuk-link">The fastest way to improve policy is to build it - Jamie Laing and Michal Charemza</a></p>
+<p class="govuk-body"><a href="https://docs.google.com/document/d/1UaZiiseY8C0kNp1lXTejo7eIlOtweyZiDQVVW7HnPFk/mobilebasic" class="govuk-link">Making Things Open Makes Things Better - Andy Porter</a></p>
+
+      ]]>
+    </content>
+  </entry>
   <entry>
     <title>Local - 7 to 11 September</title>
     <link href="/weeknotes/13-09-2026/"/>
@@ -788,38 +826,6 @@ We will know this works if we see (measurable change).</p>
 <li><a href="https://rummanamin.co.uk/lean-governance/" class="govuk-link">Lean governance for digital service delivery - Rumman Amin</a></li>
 <li><a href="https://www.theserviceorg.com/articles/service-leadership" class="govuk-link">Service leadership - Kate Tarling</a></li>
 <li><a href="https://contentdesign.london/blog/why-content-design-exists" class="govuk-link">Why content design exists - Rich Prowse</a></li>
-</ul>
-
-      ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Requirement - 23 to 27 February</title>
-    <link href="/weeknotes/28-02-2026/"/>
-    <updated>2026-02-28T00:00:00Z</updated>
-    <id>/weeknotes/28-02-2026/</id><content xml:lang="en" type="html">
-      <![CDATA[
-<h2 id="work-week" tabindex="-1" class="govuk-heading-l">Work week</h2>
-<p class="govuk-body">Started the week confirming we were delaying the site launch originally planned for Thursday. Instead we will make use of support from some very helpful developers from another team to build something easier to deploy and maintain longer term.</p>
-<p class="govuk-body">Cue a slightly awkward call on Tuesday where new team asks us for the list of requirements our developer has been working to. We’ve just been moving too fast, and re-using our existing knowledge, tech and decisions, to formally specify things in a way that a brand new developer could use. We have everything they need, it’s just a little… separated.</p>
-<p class="govuk-body">Handily the original site in development is so close to what we need for launch that it works as one big requirement. Even more luckily, it turns out that the other team were already exploring using <a href="https://wagtail.org/" class="govuk-link">Wagtail CMS</a> for their own products. They just needed something to really test it out on…</p>
-<p class="govuk-body">So we’ve quickly got a rough new version of the site up and running, and the CMS looks to do what we need it to in terms of of structured content. Despite the delay of a couple weeks I’m hopeful we’ll be in a much better place to deliver value for users and the wider team longer term. I’m also heartened that we’re building a relationship with a like-minded team that could lead to smarter working in future.</p>
-<p class="govuk-body">I’ve realised we need to make sure we’re communicating this in the story of the work: we’ve essentially built and tested a very high fidelity prototype over 8 days, rapidly working out what was feasible and what was risky. Sharing this learning openly and widely has then allowed us to build a better product closer to what both users and the organisation needs.</p>
-<p class="govuk-body">I then spent most of the rest of the week quickly gathering together existing documentation and ideas, like our content models and frontend design decisions, into accessible, coherent requirements. This has been quietly satisfying work. By Thursday I was even starting to feel like a designer again.</p>
-<p class="govuk-body">Also on Thursday we held our monthly cross-government ‘design council’ for the Digital and Data profession’s framework. There were no proposals for representatives to review this month, so we took the chance to explain the above work, and share a survey to help us understand how organisations go about making decisions about proposals. We also let everyone know that due to the reduced team capacity for the next 2 months, we are re-planning all the content development work currently in progress.</p>
-<p class="govuk-body">I’m still pushing to get the skills update for the ‘content designer’ role published in May. This extremely meta work (designing content for content designers to assess their design skills) now just needs test materials for the latest draft for heads of content/design to share with a sample of designers in their organisations. Finding the time to create said test material is another thing.</p>
-<p class="govuk-body">At the end of the week my line manager passed on some nice feedback from leadership on my approach to the challenges this past few weeks. Have to say, it really does make a difference to personal morale. I need to make sure there’s public recognition of the team’s work soon.</p>
-<h2 id="other-things" tabindex="-1" class="govuk-heading-l">Other things</h2>
-<p class="govuk-body">Started working on my pitch for SDinGov. The theme this year is ‘democratising design’.</p>
-<p class="govuk-body">I’ve enjoyed considering what people might take from our experience running a product where key users can propose significant changes - and then have cross-government representatives actually vote on them.</p>
-<p class="govuk-body">I’m thinking about where this level of participation might be useful in other contexts, but also where it might cause issues! Deadline to submit is 9 March.</p>
-<h2 id="reading" tabindex="-1" class="govuk-heading-l">Reading</h2>
-<ul class="govuk-list govuk-list--bullet">
-<li><a href="https://transform.wales/blog/2026/from-outputs-to-outcomes-redefining-public-sector-success/" class="govuk-link">From outputs to outcomes: redefining public sector success - Transform Wales</a></li>
-<li><a href="https://emilywebber.co.uk/a-new-communities-of-practice-model-for-organisational-maturity/" class="govuk-link">A New Communities of Practice Model for Organisational Maturity - Emily Webber</a></li>
-<li><a href="https://www.rpp.works/ways-of-doing/talk-transforming-health-and-delivering-the-nhs-10-year-plan/" class="govuk-link">Transforming health and delivering the NHS 10-year plan - Richard Pope</a></li>
-<li><a href="https://medium.com/kainosxd/documenting-a-service-as-a-content-designer-d320af7f2604" class="govuk-link">Documenting a service as a content designer - Amy Noss</a></li>
-<li><a href="https://ademolaadepoju.substack.com/p/what-do-companies-actually-want-from" class="govuk-link">What Do Companies Actually Want from Content Designers in 2026? - Ademola Adepoju</a></li>
 </ul>
 
       ]]>
