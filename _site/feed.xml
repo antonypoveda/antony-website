@@ -14,8 +14,8 @@
 <h2 id="what-we-ve-been-up-to" tabindex="-1" class="govuk-heading-l">What we’ve been up to</h2>
 <p class="govuk-body">This week we have got two new(ish) websites live:</p>
 <ul class="govuk-list govuk-list--bullet">
-<li><a href="cyber-profession.gov.uk" class="govuk-link">cyber-profession.gov.uk</a> - for the new Cyber profession</li>
-<li><a href="understand-digital-data-roles-skills.service.gov.uk" class="govuk-link">understand-digital-data-roles-skills.service.gov.uk</a> - to host the capability framework for the Digital and Data profession</li>
+<li><a href="https://cyber-profession.gov.uk" class="govuk-link">cyber-profession.gov.uk</a> - for the new Cyber profession</li>
+<li><a href="https://understand-digital-data-roles-skills.service.gov.uk" class="govuk-link">understand-digital-data-roles-skills.service.gov.uk</a> - to host the capability framework for the Digital and Data profession</li>
 </ul>
 <p class="govuk-body">The cyber site is to be the digital home for this new government profession. It will grow and develop as the profession establishes. Our team has done the initial content and design work (mostly before the summer) and another team will be leading future development, aside from the framework descriptions.</p>
 <p class="govuk-body">The new Digital and Data capability framework website is essentially the same one that was there last week on the surface. But underneath we’ve moved to a new content management system (Wagtail, same as the Cyber site).</p>
