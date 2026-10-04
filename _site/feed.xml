@@ -12,18 +12,18 @@
       <![CDATA[
 <p class="govuk-body">A 1-week mini sprint to end the quarter. What have we got out the door?</p>
 <h2 id="what-we-ve-been-up-to" tabindex="-1" class="govuk-heading-l">What we’ve been up to</h2>
-<p class="govuk-body">This week we have officially launched two new(ish) websites:</p>
+<p class="govuk-body">This week we have got two new(ish) websites live:</p>
 <ul class="govuk-list govuk-list--bullet">
 <li><a href="cyber-profession.gov.uk" class="govuk-link">cyber-profession.gov.uk</a> - for the new Cyber profession</li>
 <li><a href="understand-digital-data-roles-skills.service.gov.uk" class="govuk-link">understand-digital-data-roles-skills.service.gov.uk</a> - to host the capability framework for the Digital and Data profession</li>
 </ul>
-<p class="govuk-body">The cyber site is to be the digital home for this new government profession. It will grow and develop as the profession establishes. Our team has done ‘the initial design’ (mostly done before the summer) and another team will be doing future development, but we’ll still be on hand.</p>
-<p class="govuk-body">The new Digital and Data capability framework website is essentially the same one that was there last week, on the surface. But underneath we’ve moved to a new content management system (Wagtail, same as the Cyber site).</p>
-<p class="govuk-body">And we’ve rebuilt the frontend too, crossing off some longstanding backlog items in the process (hello, better search, robust file downloads and new domain name) This all puts the framework site in a really solid, sustainable place, ready for future development.</p>
-<p class="govuk-body">Both sites are a testament to effective cross-team working, both within GDS and across wider department. In particular, the framework replatform has taken us less than 3 months from start to finish, and we haven’t yet heard any issues from users since the switch over on Wednesday.</p>
+<p class="govuk-body">The cyber site is to be the digital home for this new government profession. It will grow and develop as the profession establishes. Our team has done the initial content and design work (mostly before the summer) and another team will be leading future development, aside from the framework descriptions.</p>
+<p class="govuk-body">The new Digital and Data capability framework website is essentially the same one that was there last week on the surface. But underneath we’ve moved to a new content management system (Wagtail, same as the Cyber site).</p>
+<p class="govuk-body">And we’ve rebuilt the frontend too, crossing off some longstanding backlog items in the process (hello better search, contact page, robust file downloads and accessibility fixes, goodbye old domain name and GA4). This all puts the framework site in a really solid, sustainable place, ready for future development.</p>
+<p class="govuk-body">Both sites are a testament to effective cross-team working, both within GDS and across wider department. In particular, the framework re-platform has taken us less than 3 months from start to finish, and we haven’t yet heard any issues from users since the switch over on Wednesday.</p>
 <p class="govuk-body">Define a clear goal and bring together the right expertise, enable people to work with each other directly and self-organise, trust the process and back the team - it’s not rocket science, just <a href="https://youtu.be/NZRlCyb7Gjg?t=2631&amp;is=ebkFywITNr_K3EiA" class="govuk-link">brilliant basics</a>. Here’s to more of it.</p>
 <h2 id="other-things" tabindex="-1" class="govuk-heading-l">Other things</h2>
-<p class="govuk-body">On Thursday, our product manager took us through the preparation they’ve been doing for the discovery that’s going to be the teams’ focus for next quarter. This upcoming period will mean a shift in our way of working back towards being a single team and I’m all for it. I’ve shared the <a href="https://design-history.nhsapp.service.nhs.uk/" class="govuk-link">NHS App design histories</a> and some posts from their lead designer, <a href="https://mikegallagher.org/" class="govuk-link">Mike Gallagher</a>, as these feel quit relevant for us, in a sideways kind of way.</p>
+<p class="govuk-body">On Thursday, our product manager took us through the preparation they’ve been doing for the discovery that’s going to be the teams’ focus for next quarter. This upcoming period will mean a shift in our way of working back towards being a single team and I’m all for it. I’ve shared the <a href="https://design-history.nhsapp.service.nhs.uk/" class="govuk-link">NHS App design histories</a> and some posts from their lead designer, <a href="https://mikegallagher.org/" class="govuk-link">Mike Gallagher</a>, as these feel quite relevant for us, in a sideways kind of way.</p>
 <p class="govuk-body">On Friday, I focused the morning on updating our release notes and design history documentation with the latest changes we’ve made to the frontend. The afternoon was spent shaping another version of the public information about our change request backlog. I think it’s nearly there. Just needs a crit from my fellow content designer, and then this final part of our framework content delivery board can be made public. Another thing live and crossed off the backlog.</p>
 <p class="govuk-body">Notes for next week:</p>
 <ul class="govuk-list govuk-list--bullet">
@@ -36,7 +36,7 @@
 <p class="govuk-body"><a href="https://mhclgdigital.blog.gov.uk/2026/10/01/my-journey-from-communications-to-delivery-management/" class="govuk-link">My journey from communications to delivery management - Pippa Savill</a></p>
 <p class="govuk-body"><a href="https://www.linkedin.com/pulse/4-months-director-test-learn-grow-hmrc-jen-staves-amcje/" class="govuk-link">4 months in as Director of Test, Learn and Grow at HMRC - Jen Staves</a></p>
 <p class="govuk-body"><a href="https://lapope.com/resource/ai-in-charity-content/" class="govuk-link">AI in charity content - Lauren Pope</a></p>
-<p class="govuk-body"><a href="https://design-history.prevention-services.nhs.uk/age-related-messaging/2026/09/re-discover-phase/" class="govuk-link">Re-discovery for scaling up age-based messaging - Ash Fnnegan</a></p>
+<p class="govuk-body"><a href="https://design-history.prevention-services.nhs.uk/age-related-messaging/2026/09/re-discover-phase/" class="govuk-link">Re-discovery for scaling up age-based messaging - Ash Finnegan</a></p>
 <p class="govuk-body"><a href="https://medium.com/iamacamera/ginza-sony-park-on-the-possibility-of-incompleteness-a33fd1e4e4f3?sk=c869ac533e23284e44576e6b231065c3" class="govuk-link">Ginza Sony Park: on the Possibility of Incompleteness - Dan Hill</a></p>
 
       ]]>
