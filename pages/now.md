@@ -5,6 +5,28 @@ includeInBreadcrumbs: false
 ---
 This [now page](https://nownownow.com) explains what I'm currently focused on. For more on what I've been up to, check my [weeknotes](/weeknotes).
 
+## Now: October 2026
+
+### Work
+* Discovery on how we might better support the wider profession using our online channels and tools.
+* Designing content changes for the [Government Digital and Data Profession Capability Framework](https://understand-digital-data-roles-skills.service.gov.uk/) with experts in portfolio management, content design and information architecture.
+* Apparently creating a game for the team away days called the Allotment at the End of the World.
+
+### On the side
+* Running the October edition of the [X-Gov Sheffield meetups](https://forms.cloud.microsoft/e/bJLA3AccyZ), for public sector folk around the South Yorkshire area.
+
+### Personal
+* More trips to the Lakes.
+* Braving the late night autumn tag rugby season.
+* Playing Age of Empires 2.
+* Trying to restart my reading. Will take recommendations.
+
+***
+Last updated: 21 October 2026
+
+<details class="govuk-details"><summary><h2 class="govuk-heading-l">View previous nows</h2>
+</summary>
+
 ## Now: August 2026
 
 ### Work
@@ -21,14 +43,9 @@ This [now page](https://nownownow.com) explains what I'm currently focused on. F
 * Weekly swimming, weekly tag rugby, occasional running.
 * Reading books:
 	* Stuck? Diagrams Help by Abby Covert
-	* Dune: Messiah by Frank Herbert
-	* The Coniston Case - Rebecca Tope
+	* Dune: Messiah by Frank Herbet
 
 ***
-Last updated: 16 August 2026
-
-<details class="govuk-details"><summary><h2 class="govuk-heading-l">View previous nows</h2>
-</summary>
 
 ## Now: July 2026
 
