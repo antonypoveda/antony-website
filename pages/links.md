@@ -7,7 +7,7 @@ includeInBreadcrumbs: false
 Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 [[toc]]
-## September
+## September 2026
 
 [Stuck? Diagrams Help. - Abby Covert](https://abbycovert.com/product/stuck-diagrams-help/)
 
