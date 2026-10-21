@@ -7,6 +7,52 @@ includeInBreadcrumbs: false
 Links to useful or cool things, most from my [weeknotes](/weeknotes).
 
 [[toc]]
+## September
+
+[Stuck? Diagrams Help. - Abby Covert](https://abbycovert.com/product/stuck-diagrams-help/)
+
+ [Gateshead revisited - Andy Parker](https://theuxcoach.substack.com/p/gateshead-revisted)
+ 
+[1-800-PODCAST - 99% Invisible](https://99percentinvisible.org/episode/681-1-800-podcast/)
+
+[Sometimes you just need to sit down and do the boring, time-consuming job - Ray Newman](https://www.linkedin.com/pulse/sometimes-you-just-need-sit-down-do-boring-job-ray-newman-nsoue/)
+
+[Why North England is poor - Tom Forth](https://tomforth.co.uk/whynorthenglandispoor/)
+
+[Persistence of vision - Mike Gallagher](https://mikegallagher.org/posts/persistence-of-vision/)
+
+[Where to start with solving information architecture (IA) problems - Ray Newman](https://www.linkedin.com/pulse/where-start-solving-information-architecture-ia-problems-ray-newman-w0ive/)
+
+[Not without a fight - Mule Design](https://buttondown.com/muledesign/archive/not-without-a-fight/)
+
+[Writing is thinking, presenting is deciding - Russell Davies](https://www.undermanager.com/writing-is-thinking-presenting-is-deciding/)
+
+[Bland new world: is AI making us all think the same? - Matthew Hutson](https://www.nature.com/articles/d41586-026-02682-3)
+
+[Wall Labels Are in a Sorry State. Here’s How to Fix Them - Ben Davis](https://news.artnet.com/art-world/museum-wall-labels-2804505)
+
+[Metrics, measures and indicators: a few things to bear in mind - Steve Messer](https://boringmagi.cc/2025/05/08/metrics-measures-and-indicators/)
+
+[Using agile practices in digital screening: lessons we’ve been learning - Christine Cawthorne](https://design-history.prevention-services.nhs.uk/screening/2026/09/using-agile-in-healthcare/)
+
+[Weapons - Simon Morgan-Wilson](https://www.officeofwilson.com/weapons/)
+
+[The fastest way to improve policy is to build it - Jamie Laing and Michal Charemza](https://digitaltrade.blog.gov.uk/2026/09/28/the-fastest-way-to-improve-policy-is-to-build-it/)
+
+[Making Things Open Makes Things Better - Andy Porter](https://docs.google.com/document/d/1UaZiiseY8C0kNp1lXTejo7eIlOtweyZiDQVVW7HnPFk/mobilebasic)
+
+[My journey from communications to delivery management - Pippa Savill](https://mhclgdigital.blog.gov.uk/2026/10/01/my-journey-from-communications-to-delivery-management/)
+
+[4 months in as Director of Test, Learn and Grow at HMRC - Jen Staves](https://www.linkedin.com/pulse/4-months-director-test-learn-grow-hmrc-jen-staves-amcje/)
+
+[AI in charity content - Lauren Pope](https://lapope.com/resource/ai-in-charity-content/)
+
+[Re-discovery for scaling up age-based messaging - Ash Finnegan](https://design-history.prevention-services.nhs.uk/age-related-messaging/2026/09/re-discover-phase/)
+
+[Ginza Sony Park: on the Possibility of Incompleteness - Dan Hill](https://medium.com/iamacamera/ginza-sony-park-on-the-possibility-of-incompleteness-a33fd1e4e4f3?sk=c869ac533e23284e44576e6b231065c3)
+
+[Wibble Rugby: The Champions: England 2003 | The Innovators and Total Rugby](https://www.youtube.com/watch?v=NZRlCyb7Gjg&t=2631s)
+
 ***
 ## August 2026
 
