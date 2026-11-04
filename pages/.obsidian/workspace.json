@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "links.md",
+                "file": "weeknotes/04-11-2026.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "links"
+              "title": "04-11-2026"
             }
           }
         ],
@@ -230,6 +230,8 @@
   },
   "active": "83d1e771d2b0bdc1",
   "lastOpenFiles": [
+    "links.md",
+    "weeknotes/04-11-2026.md",
     "now.md",
     "weeknotes/20-10-2026.md",
     "weeknotes/13-10-2026.md",
@@ -238,7 +240,6 @@
     "weeknotes/06-09-2026.md",
     "weeknotes/13-09-2026.md",
     "weeknotes/30-08-2026.md",
-    "links.md",
     "weeknotes/18-07-2026.md",
     "weeknotes/16-08-2026.md",
     "weeknotes/09-08-2026.md",
@@ -254,7 +255,6 @@
     "index.md",
     "weeknotes/07-02-2026.md",
     "weeknotes/14-02-2026.md",
-    "weeknotes/28-02-2026.md",
-    "weeknotes/22-02-2026.md"
+    "weeknotes/28-02-2026.md"
   ]
 }
