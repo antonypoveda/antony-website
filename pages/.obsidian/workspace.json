@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "04-11-2026"
             }
+          },
+          {
+            "id": "b40370ebb0a018ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "weeknotes/11-11-2026.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "11-11-2026"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -228,8 +242,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "83d1e771d2b0bdc1",
+  "active": "b40370ebb0a018ea",
   "lastOpenFiles": [
+    "weeknotes/11-11-2026.md",
     "links.md",
     "weeknotes/04-11-2026.md",
     "now.md",
@@ -254,7 +269,6 @@
     "weeknotes/23-05-2026.md",
     "index.md",
     "weeknotes/07-02-2026.md",
-    "weeknotes/14-02-2026.md",
-    "weeknotes/28-02-2026.md"
+    "weeknotes/14-02-2026.md"
   ]
 }
