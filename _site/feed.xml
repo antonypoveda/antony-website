@@ -2,8 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="false">
   <title>Feed</title>
   <link href="/feed.xml" rel="self"/>
-  <updated>2026-11-11T00:00:00Z</updated>
+  <updated>2026-11-16T00:00:00Z</updated>
   <id>false</id>
+  <entry>
+    <title>Talking - 9 to 13 November</title>
+    <link href="/weeknotes/16-11-2026/"/>
+    <updated>2026-11-16T00:00:00Z</updated>
+    <id>/weeknotes/16-11-2026/</id><content xml:lang="en" type="html">
+      <![CDATA[
+<figure><img src="/assets/images/blog/simplethings.jpg" alt="A crowd of people at a gig in silhouette, all looking towards the stage, which is not visible due to the bright green stagelights and hazy air. In the foreground 2 people are smiling at each other."></figure>
+<p class="govuk-body">This was a week with a lot of talking to other teams. Mostly good talking. I like talking, it makes the work better.</p>
+<h2 id="this-week" tabindex="-1" class="govuk-heading-l">This week</h2>
+<ul class="govuk-list govuk-list--bullet">
+<li>We did a show and tell on the first discovery sprint for the wider Capability team, and are setting up calls with colleagues to talk about their current service offers.</li>
+<li>We’ve recruited participants from the profession for user research interviews, and made progress with being able to do research with people outside of government.</li>
+<li>We caught up with another discovery team in GDS looking at an adjacent problem area, which will help us focus our scope.</li>
+<li>I did a session taking our team through the current hypothetical user experience for people looking for career ideas, adapting these <a href="https://mikegallagher.org/posts/design-principles-for-healthcare/" class="govuk-link">heuristics from the NHS App team</a>.</li>
+<li>We explored some potential strategic framings for our work and started thinking about <a href="https://analysisfunction.civilservice.gov.uk/policy-store/the-analysis-function-theory-of-change-toolkit/" class="govuk-link">theory of change</a>.</li>
+<li>We had a couple of really good chats with a new team in our area that should help us operate as one group when we need to work with the Future Civil Service programme.</li>
+<li>Everyone survived the Great MS-DOS Outage of 2026, until the next one.</li>
+</ul>
+<h2 id="next" tabindex="-1" class="govuk-heading-l">Next</h2>
+<ul class="govuk-list govuk-list--bullet">
+<li>We should be finalising the content changes to go live on the capability framework at the end of the month.</li>
+<li>I’m running the November edition of the <a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=BXCsy8EC60O0l-ZJLRst2Jre5EtS4GJGqikwhOdA5qpUMENURFIzOUZOQkFDREhGVzVMTFhXMTlCVi4u" class="govuk-link">X-Gov Sheffield meetup</a> on Tuesday.</li>
+</ul>
+<h2 id="reading" tabindex="-1" class="govuk-heading-l">Reading</h2>
+<p class="govuk-body"><a href="https://technology.blog.gov.uk/2026/10/12/engineering-quality-into-digital-services/" class="govuk-link">Engineering quality into digital services - Mibin Boban and Pam Crosby</a></p>
+<p class="govuk-body"><a href="https://emergencemagazine.org/essay/benchmarking/" class="govuk-link">Benchmarking - James Bridle</a></p>
+<p class="govuk-body"><a href="https://design-history.prevention-services.nhs.uk/lung-health-check/2026/11/following-the-golden-threads/" class="govuk-link">Following the golden threads through lung cancer screening - Simon Whatley</a></p>
+<p class="govuk-body"><a href="https://good.services/writing/when-services-fail-we-see-what-they-are-made-of" class="govuk-link">When services fail, we see what they are made of - Lou Downe</a></p>
+<p class="govuk-body"><a href="https://www.nintendo.com/en-gb/Iwata-Asks/Iwata-Asks-The-Legend-of-Zelda-Ocarina-of-Time-3D/Vol-1-Sound/1-The-Ever-Changing-Music-of-Hyrule-Field/1-The-Ever-Changing-Music-of-Hyrule-Field-231234.html" class="govuk-link">Oral histroy of The Legend of Zelda: Ocarina of Time - Nintendo</a></p>
+
+      ]]>
+    </content>
+  </entry>
   <entry>
     <title>Away - 2 to 6 November</title>
     <link href="/weeknotes/11-11-2026/"/>
@@ -776,49 +809,6 @@ council governance or content co-design processes)</p>
 <p class="govuk-body"><a href="https://www.thevoiceofuser.com/the-largest-review-of-synthetic-participants-ever-conducted-found-exactly-what-youd-expect-synthetic-users-dont-work/" class="govuk-link">The largest review of synthetic participants ever conducted found exactly what you’d expect. Synthetic users don’t work - The Voice of User</a></p>
 <p class="govuk-body"><a href="https://medium.com/design-bootcamp/why-all-content-is-fundamentally-words-18aab585876b" class="govuk-link">Why all content is fundamentally words - Andrew Tipp</a></p>
 <p class="govuk-body"><a href="https://longform.asmartbear.com/predict-the-future/" class="govuk-link">Navigating the unpredictability of everything - Jason Cohen</a></p>
-
-      ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Octopus - 11 to 15 May</title>
-    <link href="/weeknotes/16-05-2026/"/>
-    <updated>2026-05-16T00:00:00Z</updated>
-    <id>/weeknotes/16-05-2026/</id><content xml:lang="en" type="html">
-      <![CDATA[
-<h2 id="work" tabindex="-1" class="govuk-heading-l">Work</h2>
-<p class="govuk-body">Interesting week with lots of work with groups across government.</p>
-<p class="govuk-body">First thing Tuesday I met with the lead of the group working on an update for the <a href="https://ddat-capability-framework.service.gov.uk/role/data-engineer" class="govuk-link">data engineer role</a>. We checked feedback from the community fact check process  - this process gives us confidence whether proposed changes to a skill description will work for different roles and in different organisational contexts.  I liked doing this kind of work first thing, really set me up for the rest of the day.</p>
-<p class="govuk-body">Then Thursday I met with both a group of business analysts and a group of content designers. This was the first time I’d properly met with the business analysts as a former colleague had been facilitating this work. They seem a really good bunch with a clear sense of what they want to achieve so I’m looking forward to helping them finish off their updates over the summer.</p>
-<p class="govuk-body">The content designer group are at the other end of the process.  We agreed final edits in response to <a href="https://userresearch.blog.gov.uk/2014/09/02/a-simple-technique-for-evaluating-content/" class="govuk-link">highlighter testing</a> in April, and the role description will now be updated at the end of the month.</p>
-<p class="govuk-body">The changes to the <a href="https://ddat-capability-framework.service.gov.uk/role/content-designer" class="govuk-link">content designer role</a> will mean that all 50+ role descriptions in this capability framework have been updated in some way, large or small, in the last 2 years. The team needs to find a way to celebrate this and share wider within the organisation. I may even have to do a cringe Linkedin post.</p>
-<p class="govuk-body">I’m continuing to support my new-ish content designer colleague in sessions with stakeholders when I can. They’re definitely now taking the lead on the content in their area, which is great to see. We’re enjoying showing the people we talk to our ‘big map of everything related to a profession capability framework’.</p>
-<p class="govuk-body">The map uses a <a href="https://hpadkisson.medium.com/object-modeling-for-designers-an-introduction-7871bdcf8baf" class="govuk-link">narrative object modelling</a> approach and is very scrappy by design. It’s hopefully helping everyone recognise the complexity of the area and align on shared language.</p>
-<p class="govuk-body">This week we’ve had early results from the independent accessibility audit of both websites our team has built and maintained. The results are mostly really positive and the auditors have commented on how many good practices they’ve seen. It’s really satisfying to have external recognition of our work in this area, especially as our sites adapt standard design system components in new ways.</p>
-<p class="govuk-body">More Jira wangling over the week. One success has been including a hypothesis template in our default epic/story card, though I’ve called it an ‘idea definition statement’. It sort of looks like this:</p>
-<blockquote data-govspeak="blockquote">
-<p class="govuk-body">Because of (evidence of problem),<br>
-We think that changing (existing thing) to (new state)<br>
-Will lead to (improvement for our users)<br>
-We will know this works if we see (measurable change).</p>
-</blockquote>
-<p class="govuk-body">The thinking is that we can use this with stakeholders to refine ideas, while moving to using design hypotheses as the basis for much of the team’s work.</p>
-<p class="govuk-body">Finally, there has been rumbles of starting up a UCD community of practice for our directorate so I was asked how the regular drop-in for content designers I run is going.</p>
-<p class="govuk-body">I’ve reflected that the value in it comes from its small size (usually 3-5 people) and focus on content-related stuff. This means people are comfortable sharing work in progress and getting feedback on problems we have. It also makes it easier to build and maintain relationships, which comes in handy when our work overlaps so often.</p>
-<h2 id="other-things" tabindex="-1" class="govuk-heading-l">Other things</h2>
-<p class="govuk-body">The <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=BXCsy8EC60O0l-ZJLRst2Jre5EtS4GJGqikwhOdA5qpUMENURFIzOUZOQkFDREhGVzVMTFhXMTlCVi4u" class="govuk-link">next X-Gov Sheffield breakfast meetup is on 2 June</a>! Sadly I’m away for this one, but don’t let that stop you signing up if you’re in the area.</p>
-<p class="govuk-body">I’ve been savouring an early birthday present for myself, a big heavy book about the legendary designer, <a href="https://uk.bookshop.org/p/books/margaret-calvert-woman-at-work-margaret-calvert/7934234?ean=9780500030448" class="govuk-link">Margaret Calvert, Woman At Work</a>.</p>
-<p class="govuk-body">Lovely book to have lying around and Kid A has enjoyed flicking through all the pictures of Calvert’s designs for lettering and signs. We even got inspired enough to draw our own signs. This one says ‘Warning: Octopuses’:</p>
-<figure><img src="/assets/images/blog/warningoctopuses.jpeg" alt="A kids drawing of a red triangle warning sign with a black octopus icon on it"></figure>
-<h2 id="reading" tabindex="-1" class="govuk-heading-l">Reading</h2>
-<p class="govuk-body"><a href="https://linear.app/now/output-isn-t-design" class="govuk-link">Output isn’t design - Karri Saarinen</a></p>
-<p class="govuk-body"><a href="https://mikegallagher.org/posts/the-logic-of-conjecture-part-1/" class="govuk-link">The logic of conjecture: part 1 - Mike Gallagher</a></p>
-<p class="govuk-body"><a href="https://www.officeofwilson.com/service-design-is-not-user-experience-design-at-greater-scale/" class="govuk-link">Service design is not user experience design at greater scale - Simon Morgan-Wilson</a></p>
-<p class="govuk-body"><a href="https://design-history-referrals-app-e8b8c2c8ff86.herokuapp.com/appointments-in-the-app/2026/03/1-appointments-in-the-app-intro/" class="govuk-link">The appointments problem: why it’s harder than it looks - NHS design histories</a></p>
-<p class="govuk-body"><a href="https://www.platformland.xyz/ways-of-doing/lobster-pots-complexity-and-starting-small-in-the-right-way/" class="govuk-link">Lobster pots, complexity and starting small in the right way - Richard Pope</a></p>
-<p class="govuk-body"><a href="https://transform.wales/blog/2026/100-days-is-enough-to-prove-a-different-way-of-governing/" class="govuk-link">100 days is enough to prove a different way of governing - Transform Wales</a></p>
-<p class="govuk-body"><a href="https://www.gov.uk/guidance/ai-open-code-and-vulnerability-risk-in-the-public-sector" class="govuk-link">AI, open code and vulnerability risk in the public sector - GDS guidance</a></p>
-<p class="govuk-body"><a href="https://sinceyouarrived.world/taken" class="govuk-link">What this page knows since you arrived</a></p>
 
       ]]>
     </content>
